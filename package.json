@@ -1,0 +1,20 @@
+{
+  "name": "german-plate",
+  "version": "1.0.0",
+  "description": "German plate number",
+  "main": "./lib",
+  "repository": "https://vossccp.github.com/german-plate",
+  "author": "Carsten Voss",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "devDependencies": {
+    "eslint": "^4.2.0",
+    "mocha": "^3.4.2"
+  },
+  "dependencies": {
+    "eslint-config-es": "^0.8.11",
+    "german-license-plate-prefixes": "^1.0.1"
+  }
+}
