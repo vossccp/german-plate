@@ -12,7 +12,8 @@
   ],
   "license": "MIT",
   "scripts": {
-    "test": "mocha -w"
+    "test": "mocha",
+    "testwatch": "mocha -w"
   },
   "devDependencies": {
     "eslint": "^4.2.0",
