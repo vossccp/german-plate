@@ -4,7 +4,7 @@ var _createClass = function () { function defineProperties(target, props) { for 
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
-var prefixes = require('german-license-plate-prefixes');
+var plateNumbers = require('./kennzeichen');
 
 var isLetter = function isLetter(character) {
   return character.toLowerCase() !== character.toUpperCase();
@@ -165,12 +165,9 @@ PlateNumber.parse = function (str) {
     community = alternativePrefixes[community];
   }
 
-  var registrationCommunity = {
-    id: community,
-    name: prefixes[community]
-  };
+  var registrationCommunity = plateNumbers[community];
 
-  if (!registrationCommunity.name) {
+  if (!registrationCommunity) {
     throw new Error('Unknown registration communitity ' + registrationCommunity.id);
   }
 
