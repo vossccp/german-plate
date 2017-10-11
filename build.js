@@ -39,6 +39,14 @@ const data = {
       shortCut: 'ni',
       name: 'Niedersachsen'
     }
+  },
+  NT: {
+    id: 'NT',
+    community: 'Landkreis Esslingen',
+    state: {
+      shortCut: 'bw',
+      name: 'Baden-Württemberg'
+    }
   }
 };
 
