@@ -33,11 +33,13 @@ suite('PlateNumber', () => {
       { expected: 'ST-CB 145E', actual: 'ST -CB 145E' }
     ];
 
-    positive.forEach(d => {
-      test(`returns '${d.expected}' when provided '${d.actual}'`, () => {
-        const result = PlateNumber.parse(d.actual);
+    positive.forEach(testCase => {
+      test(`returns '${testCase.expected}' when provided '${
+        testCase.actual
+      }'`, () => {
+        const result = PlateNumber.parse(testCase.actual);
 
-        assert.equal(result, d.expected);
+        assert.equal(result, testCase.expected);
       });
     });
 
@@ -45,16 +47,25 @@ suite('PlateNumber', () => {
       'D H-X 213',
       'F-BZ 1234567',
       'XX XXXX KU 101',
-      'XX KU 101',
       'FUE 101',
       'FUE KU'
     ];
 
-    negative.forEach(d => {
-      test(`throws an error when parsing '${d}'`, () => {
+    negative.forEach(testCase => {
+      test(`throws an error when parsing '${testCase}'`, () => {
         assert.throws(() => {
-          PlateNumber.parse(d);
+          PlateNumber.parse(testCase);
         }, 'Invalid plate number');
+      });
+    });
+
+    const validButNoRegistrationCommunity = [ 'XX KU 101' ];
+
+    validButNoRegistrationCommunity.forEach(testCase => {
+      test(`accepts unknow registration communities '${testCase}'`, () => {
+        const result = PlateNumber.parse(testCase);
+
+        assert.equal('XX', result.registrationCommunity.id);
       });
     });
 
