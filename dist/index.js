@@ -168,7 +168,14 @@ PlateNumber.parse = function (str) {
   var registrationCommunity = plateNumbers[community];
 
   if (!registrationCommunity) {
-    throw new Error('Unknown registration communitity ' + community);
+    registrationCommunity = {
+      id: community,
+      community: community,
+      state: {
+        shortCut: 'XX',
+        name: 'Unbekannt'
+      }
+    };
   }
 
   return new PlateNumber(registrationCommunity, alphanumeric, numericValue, isElectricVehicle);
