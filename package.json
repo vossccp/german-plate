@@ -1,28 +1,26 @@
 {
   "name": "german-plate",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "German plate number",
   "main": "./dist",
-  "repository": "https://vossccp.github.com/german-plate",
+  "repository": "https://github.com/vossccp/german-plate",
   "author": "Carsten Voss",
-  "keywords": ["german", "plate", "plate number"],
+  "keywords": [
+    "german",
+    "plate",
+    "plate number"
+  ],
   "license": "MIT",
   "scripts": {
     "update": "node build.js",
-    "build":
-      "babel lib --out-dir dist && cp lib/kennzeichen.json dist/kennzeichen.json",
-    "test": "mocha",
-    "testwatch": "mocha -w"
+    "build": "tsc",
+    "test": "tsc && mocha --ui tdd --recursive"
   },
   "devDependencies": {
-    "babel-cli": "^6.24.1",
-    "babel-preset-env": "^1.6.0",
-    "babel-preset-es2015": "^6.24.1",
-    "csv-parser": "^1.11.0",
-    "eslint": "^4.2.0",
-    "eslint-config-es": "^0.8.11",
-    "got": "^7.1.0",
-    "mocha": "^3.4.2"
+    "csv-parser": "^2.3.3",
+    "got": "^11.5.0",
+    "mocha": "^8.0.1",
+    "typescript": "^3.9.6"
   },
   "dependencies": {}
 }
