@@ -1,6 +1,6 @@
 {
   "name": "german-plate",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "German plate number",
   "main": "./dist",
   "repository": "https://github.com/vossccp/german-plate",
