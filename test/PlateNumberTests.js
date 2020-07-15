@@ -2,7 +2,7 @@
 
 const assert = require('assert');
 
-const PlateNumber = require('../lib');
+const PlateNumber  = require('../dist');
 
 suite('PlateNumber', () => {
   suite('parse', () => {

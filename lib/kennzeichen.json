@@ -1,0 +1,3228 @@
+{
+  "CLP": {
+    "id": "CLP",
+    "community": "Landkreis Cloppenburg",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "NT": {
+    "id": "NT",
+    "community": "Landkreis Esslingen",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "A": {
+    "id": "A",
+    "community": "Augsburg",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "AA": {
+    "id": "AA",
+    "community": "Aalen Ostalbkreis",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "AB": {
+    "id": "AB",
+    "community": "Aschaffenburg",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "ABI": {
+    "id": "ABI",
+    "community": "Anhalt-Bitterfeld",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "ABG": {
+    "id": "ABG",
+    "community": "Altenburger Land",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "AC": {
+    "id": "AC",
+    "community": "Aachen",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "AE": {
+    "id": "AE",
+    "community": "Auerbach",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "AIC": {
+    "id": "AIC",
+    "community": "Aichach-Friedberg",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "AK": {
+    "id": "AK",
+    "community": "Altenkirchen/Westerwald",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "AM": {
+    "id": "AM",
+    "community": "Amberg",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "AN": {
+    "id": "AN",
+    "community": "Ansbach",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "AÖ": {
+    "id": "AÖ",
+    "community": "Altötting",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "AP": {
+    "id": "AP",
+    "community": "Apolda - Weimarer Land",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "AS": {
+    "id": "AS",
+    "community": "Amberg-Sulzbach",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "AUR": {
+    "id": "AUR",
+    "community": "Aurich",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "AW": {
+    "id": "AW",
+    "community": "Bad Neuenahr-Ahrweiler",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "AZ": {
+    "id": "AZ",
+    "community": "Alzey-Worms",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "B": {
+    "id": "B",
+    "community": "Berlin",
+    "state": {
+      "shortCut": "be",
+      "name": "Berlin"
+    }
+  },
+  "BA": {
+    "id": "BA",
+    "community": "Bamberg",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "BAD": {
+    "id": "BAD",
+    "community": "Baden-Baden",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "BAR": {
+    "id": "BAR",
+    "community": "Barnim",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "BB": {
+    "id": "BB",
+    "community": "Böblingen",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "BC": {
+    "id": "BC",
+    "community": "Biberach/Riß",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "BD": {
+    "id": "BD",
+    "community": "Bundestag, Bundesrat, Bundesregierung",
+    "state": {
+      "name": ""
+    }
+  },
+  "BGL": {
+    "id": "BGL",
+    "community": "Berchtesgadener Land",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "BI": {
+    "id": "BI",
+    "community": "Bielefeld",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "BIR": {
+    "id": "BIR",
+    "community": "Birkenfeld/Nahe und Idar-Oberstein",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "BIT": {
+    "id": "BIT",
+    "community": "Bitburg-Prüm",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "BK": {
+    "id": "BK",
+    "community": "Bochum",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "BL": {
+    "id": "BL",
+    "community": "Zollernalbkreis / Balingen",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "BLK": {
+    "id": "BLK",
+    "community": "Burgenlandkreis",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "BM": {
+    "id": "BM",
+    "community": "Erftkreis / Bergheim",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "BN": {
+    "id": "BN",
+    "community": "Bonn",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "BO": {
+    "id": "BO",
+    "community": "Bochum",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "BOR": {
+    "id": "BOR",
+    "community": "Borken / Ahaus",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "BOT": {
+    "id": "BOT",
+    "community": "Bottrop",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "BP": {
+    "id": "BP",
+    "community": "Bundespolizei",
+    "state": {
+      "name": ""
+    }
+  },
+  "BRA": {
+    "id": "BRA",
+    "community": "Wesermarsch / Brake",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "BRB": {
+    "id": "BRB",
+    "community": "Brandenburg",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "BS": {
+    "id": "BS",
+    "community": "Braunschweig",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "BT": {
+    "id": "BT",
+    "community": "Bayreuth",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "BTF": {
+    "id": "BTF",
+    "community": "Bitterfeld",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "BÜS": {
+    "id": "BÜS",
+    "community": "Büsingen am Hochrhein",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "BW": {
+    "id": "BW",
+    "community": "Bundes-Wasser- und Schiffahrtsverwaltung",
+    "state": {
+      "name": ""
+    }
+  },
+  "BWL": {
+    "id": "BWL",
+    "community": "Baden-Württemberg Landesregierung und Landtag",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "BYL": {
+    "id": "BYL",
+    "community": "Bayern Landesregierung und Landtag",
+    "state": {
+      "name": ""
+    }
+  },
+  "BZ": {
+    "id": "BZ",
+    "community": "Bautzen",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "C": {
+    "id": "C",
+    "community": "Chemnitz",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "CB": {
+    "id": "CB",
+    "community": "Cottbus",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "CE": {
+    "id": "CE",
+    "community": "Celle",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "CHA": {
+    "id": "CHA",
+    "community": "Cham",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "CO": {
+    "id": "CO",
+    "community": "Coburg",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "COC": {
+    "id": "COC",
+    "community": "Cochem-Zell",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "COE": {
+    "id": "COE",
+    "community": "Coesfeld",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "CUX": {
+    "id": "CUX",
+    "community": "Cuxhaven",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "CW": {
+    "id": "CW",
+    "community": "Calw",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "D": {
+    "id": "D",
+    "community": "Düsseldorf",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "DA": {
+    "id": "DA",
+    "community": "Darmstadt-Dieburg",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "DAH": {
+    "id": "DAH",
+    "community": "Dachau",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "DAN": {
+    "id": "DAN",
+    "community": "Lüchow-Dannenberg",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "DAU": {
+    "id": "DAU",
+    "community": "Daun (Eifel)",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "DBR": {
+    "id": "DBR",
+    "community": "Bad Doberan",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "DD": {
+    "id": "DD",
+    "community": "Dresden",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "DE": {
+    "id": "DE",
+    "community": "Dessau-Roßlau",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "DEG": {
+    "id": "DEG",
+    "community": "Deggendorf",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "DEL": {
+    "id": "DEL",
+    "community": "Delmenhorst",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "DGF": {
+    "id": "DGF",
+    "community": "Dingolfing-Landau",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "DH": {
+    "id": "DH",
+    "community": "Diepholz-Syke",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "DL": {
+    "id": "DL",
+    "community": "Döbeln",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "DLG": {
+    "id": "DLG",
+    "community": "Dillingen",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "DN": {
+    "id": "DN",
+    "community": "Düren",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "Do": {
+    "id": "Do",
+    "community": "Dortmund",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "DON": {
+    "id": "DON",
+    "community": "Donauwörth",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "DU": {
+    "id": "DU",
+    "community": "Duisburg",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "DÜW": {
+    "id": "DÜW",
+    "community": "Bad Dürkheim / Neustadt/Weinstraße",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "E": {
+    "id": "E",
+    "community": "Essen",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "EA": {
+    "id": "EA",
+    "community": "Eisenach",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "EB": {
+    "id": "EB",
+    "community": "Eilenburg",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "EBE": {
+    "id": "EBE",
+    "community": "Ebersberg",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "ED": {
+    "id": "ED",
+    "community": "Erding",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "EE": {
+    "id": "EE",
+    "community": "Elbe-Elsterkreis",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "EF": {
+    "id": "EF",
+    "community": "Erfurt",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "EI": {
+    "id": "EI",
+    "community": "Eichstätt",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "EIC": {
+    "id": "EIC",
+    "community": "Eichsfeld",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "EL": {
+    "id": "EL",
+    "community": "Emsland",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "EM": {
+    "id": "EM",
+    "community": "Emmendingen",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "EMD": {
+    "id": "EMD",
+    "community": "Emden",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "EMS": {
+    "id": "EMS",
+    "community": "Bad Ems/Lahn-Kreis",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "EN": {
+    "id": "EN",
+    "community": "Ennepe-Ruhr-Kreis",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "ER": {
+    "id": "ER",
+    "community": "Erlangen",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "ERB": {
+    "id": "ERB",
+    "community": "Erbach/Odenwaldkreis",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "ERH": {
+    "id": "ERH",
+    "community": "Erlangen-Höchstadt",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "ERZ": {
+    "id": "ERZ",
+    "community": "Erzgebirgskreis",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "ES": {
+    "id": "ES",
+    "community": "Esslingen",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "ESW": {
+    "id": "ESW",
+    "community": "Eschwege",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "EU": {
+    "id": "EU",
+    "community": "Euskirchen",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "F": {
+    "id": "F",
+    "community": "Frankfurt/Main",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "FB": {
+    "id": "FB",
+    "community": "Friedberg/Wetteraukreis",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "FD": {
+    "id": "FD",
+    "community": "Fulda",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "FDS": {
+    "id": "FDS",
+    "community": "Freudenstadt",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "FF": {
+    "id": "FF",
+    "community": "Frankfurt/Oder",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "FFB": {
+    "id": "FFB",
+    "community": "Fürstenfeldbruck",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "FG": {
+    "id": "FG",
+    "community": "Freiberg",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "FL": {
+    "id": "FL",
+    "community": "Flensburg",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "FN": {
+    "id": "FN",
+    "community": "Friedrichshafen/Bodenseekreis",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "FO": {
+    "id": "FO",
+    "community": "Forchheim",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "FR": {
+    "id": "FR",
+    "community": "Freiburg",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "FRG": {
+    "id": "FRG",
+    "community": "Freyung-Grafenau",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "FRI": {
+    "id": "FRI",
+    "community": "Friesland",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "FS": {
+    "id": "FS",
+    "community": "Freising",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "FT": {
+    "id": "FT",
+    "community": "Frankenthal",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "FÜ": {
+    "id": "FÜ",
+    "community": "Fürth",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "G": {
+    "id": "G",
+    "community": "Gera",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "GAP": {
+    "id": "GAP",
+    "community": "Garmisch-Partenkirchen",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "GE": {
+    "id": "GE",
+    "community": "Gelsenkirchen",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "GER": {
+    "id": "GER",
+    "community": "Germersheim",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "GF": {
+    "id": "GF",
+    "community": "Gifhorn",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "GG": {
+    "id": "GG",
+    "community": "Groß-Gerau",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "GI": {
+    "id": "GI",
+    "community": "Gießen",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "GL": {
+    "id": "GL",
+    "community": "Bergisch Gladbach",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "GM": {
+    "id": "GM",
+    "community": "Gummersbach",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "GÖ": {
+    "id": "GÖ",
+    "community": "Göttingen",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "GP": {
+    "id": "GP",
+    "community": "Göppingen",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "GR": {
+    "id": "GR",
+    "community": "Görlitz",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "GRZ": {
+    "id": "GRZ",
+    "community": "Greiz",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "GS": {
+    "id": "GS",
+    "community": "Goslar",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "GT": {
+    "id": "GT",
+    "community": "Gütersloh",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "GTH": {
+    "id": "GTH",
+    "community": "Gotha",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "GÜ": {
+    "id": "GÜ",
+    "community": "Güstrow",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "GZ": {
+    "id": "GZ",
+    "community": "Günzburg",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "H": {
+    "id": "H",
+    "community": "Hannover",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "HA": {
+    "id": "HA",
+    "community": "Hagen",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "HAL": {
+    "id": "HAL",
+    "community": "Halle",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "HAM": {
+    "id": "HAM",
+    "community": "Hamm",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "HAS": {
+    "id": "HAS",
+    "community": "Haßberge / Haßfurt",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "HB": {
+    "id": "HB",
+    "community": "Hansestadt Bremen/Bremerhaven",
+    "state": {
+      "shortCut": "hb",
+      "name": "Bremen"
+    }
+  },
+  "HBN": {
+    "id": "HBN",
+    "community": "Hildburghausen",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "HD": {
+    "id": "HD",
+    "community": "Heidelberg",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "HDH": {
+    "id": "HDH",
+    "community": "Heidenheim",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "HE": {
+    "id": "HE",
+    "community": "Helmstedt",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "HEF": {
+    "id": "HEF",
+    "community": "Bad Hersfeld",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "HEI": {
+    "id": "HEI",
+    "community": "Heide",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "HEL": {
+    "id": "HEL",
+    "community": "Hessen Landesregierung und Landtag",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "HER": {
+    "id": "HER",
+    "community": "Herne",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "HF": {
+    "id": "HF",
+    "community": "Herford",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "HG": {
+    "id": "HG",
+    "community": "Bad Homburg",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "HGW": {
+    "id": "HGW",
+    "community": "Hansestadt Greifswald",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "HH": {
+    "id": "HH",
+    "community": "Hansestadt Hamburg",
+    "state": {
+      "shortCut": "hh",
+      "name": "Hamburg"
+    }
+  },
+  "HI": {
+    "id": "HI",
+    "community": "Hildesheim",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "HL": {
+    "id": "HL",
+    "community": "Hansestadt Lübeck",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "HM": {
+    "id": "HM",
+    "community": "Hameln-Pyrmont",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "HN": {
+    "id": "HN",
+    "community": "Heilbronn",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "HO": {
+    "id": "HO",
+    "community": "Hof",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "HOL": {
+    "id": "HOL",
+    "community": "Holzminden",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "HOM": {
+    "id": "HOM",
+    "community": "Homburg",
+    "state": {
+      "shortCut": "sl",
+      "name": "Saarland"
+    }
+  },
+  "HP": {
+    "id": "HP",
+    "community": "Heppenheim",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "HR": {
+    "id": "HR",
+    "community": "Homberg",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "HRO": {
+    "id": "HRO",
+    "community": "Hansestadt Rostock",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "HS": {
+    "id": "HS",
+    "community": "Heinsberg",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "HSK": {
+    "id": "HSK",
+    "community": "Hochsauerlandkreis",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "HST": {
+    "id": "HST",
+    "community": "Hansestadt Stralsund",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "HU": {
+    "id": "HU",
+    "community": "Hanau",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "HVL": {
+    "id": "HVL",
+    "community": "Havelland",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "HWI": {
+    "id": "HWI",
+    "community": "Hansestadt Wismar",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "HX": {
+    "id": "HX",
+    "community": "Höxter",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "HZ": {
+    "id": "HZ",
+    "community": "Harz",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "IGB": {
+    "id": "IGB",
+    "community": "St. Ingbert",
+    "state": {
+      "shortCut": "sl",
+      "name": "Saarland"
+    }
+  },
+  "IK": {
+    "id": "IK",
+    "community": "Ilm-Kreis",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "IN": {
+    "id": "IN",
+    "community": "Ingolstadt",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "IZ": {
+    "id": "IZ",
+    "community": "Itzehoe",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "J": {
+    "id": "J",
+    "community": "Jena",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "JL": {
+    "id": "JL",
+    "community": "Jerichower Land",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "K": {
+    "id": "K",
+    "community": "Köln",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "KA": {
+    "id": "KA",
+    "community": "Karlsruhe",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "KB": {
+    "id": "KB",
+    "community": "Korbach",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "KC": {
+    "id": "KC",
+    "community": "Kronach",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "KE": {
+    "id": "KE",
+    "community": "Kempten",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "KEH": {
+    "id": "KEH",
+    "community": "Kelheim",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "KF": {
+    "id": "KF",
+    "community": "Kaufbeuren",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "KG": {
+    "id": "KG",
+    "community": "Bad Kissingen",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "KH": {
+    "id": "KH",
+    "community": "Bad Kreuznach",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "KI": {
+    "id": "KI",
+    "community": "Kiel",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "KIB": {
+    "id": "KIB",
+    "community": "Kirchheimbolanden",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "KL": {
+    "id": "KL",
+    "community": "Kaiserslautern",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "KLE": {
+    "id": "KLE",
+    "community": "Kleve",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "KN": {
+    "id": "KN",
+    "community": "Konstanz",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "KO": {
+    "id": "KO",
+    "community": "Koblenz",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "KR": {
+    "id": "KR",
+    "community": "Krefeld",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "KS": {
+    "id": "KS",
+    "community": "Kassel",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "KT": {
+    "id": "KT",
+    "community": "Kitzingen",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "KU": {
+    "id": "KU",
+    "community": "Kulmbach",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "KÜN": {
+    "id": "KÜN",
+    "community": "Künzelsau",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "KUS": {
+    "id": "KUS",
+    "community": "Kusel",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "KYF": {
+    "id": "KYF",
+    "community": "Kyffhäuserkreis",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "L": {
+    "id": "L",
+    "community": "Leipzig",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "LA": {
+    "id": "LA",
+    "community": "Landshut",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "LAU": {
+    "id": "LAU",
+    "community": "Lauf/Nürnberger Land",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "LB": {
+    "id": "LB",
+    "community": "Ludwigsburg",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "LD": {
+    "id": "LD",
+    "community": "Landau",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "LDK": {
+    "id": "LDK",
+    "community": "Lahn-Dill-Kreis",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "LDS": {
+    "id": "LDS",
+    "community": "Dahme-Spreewald",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "LER": {
+    "id": "LER",
+    "community": "Leer/Ostfriesland",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "LEV": {
+    "id": "LEV",
+    "community": "Leverkusen",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "LG": {
+    "id": "LG",
+    "community": "Lüneburg",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "LI": {
+    "id": "LI",
+    "community": "Lindau",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "LIF": {
+    "id": "LIF",
+    "community": "Lichtenfels",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "LIP": {
+    "id": "LIP",
+    "community": "Lippe",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "LL": {
+    "id": "LL",
+    "community": "Landsberg/Lech",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "LM": {
+    "id": "LM",
+    "community": "Limburg-Weilburg",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "LÖ": {
+    "id": "LÖ",
+    "community": "Lörrach",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "LOS": {
+    "id": "LOS",
+    "community": "Oder-Spree-Kreis Beeskow",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "LRO": {
+    "id": "LRO",
+    "community": "Landkreis Rostock",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "LSA": {
+    "id": "LSA",
+    "community": "Sachsen-Anhalt Landesregierung und Landtag",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "LSN": {
+    "id": "LSN",
+    "community": "Sachsen Landesregierung und Landtag",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "LU": {
+    "id": "LU",
+    "community": "Ludwigshafen",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "LWL": {
+    "id": "LWL",
+    "community": "Ludwigslust",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "M": {
+    "id": "M",
+    "community": "München",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "MA": {
+    "id": "MA",
+    "community": "Mannheim",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "MB": {
+    "id": "MB",
+    "community": "Miesbach",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "MD": {
+    "id": "MD",
+    "community": "Magdeburg",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "ME": {
+    "id": "ME",
+    "community": "Mettmann",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "MEI": {
+    "id": "MEI",
+    "community": "Meißen",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "MG": {
+    "id": "MG",
+    "community": "Mönchengladbach",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "MI": {
+    "id": "MI",
+    "community": "Minden-Lübbecke",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "MIL": {
+    "id": "MIL",
+    "community": "Miltenberg",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "MK": {
+    "id": "MK",
+    "community": "Märkischer Kreis",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "MKK": {
+    "id": "MKK",
+    "community": "Main-Kinzig-Kreis",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "MM": {
+    "id": "MM",
+    "community": "Memmingen",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "MN": {
+    "id": "MN",
+    "community": "Mindelheim",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "MOL": {
+    "id": "MOL",
+    "community": "Märkisch-Oderland",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "MOS": {
+    "id": "MOS",
+    "community": "Mosbach",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "MR": {
+    "id": "MR",
+    "community": "Marburg-Biedenkopf",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "MS": {
+    "id": "MS",
+    "community": "Münster",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "MSH": {
+    "id": "MSH",
+    "community": "Mansfeld-Südharz",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "MSP": {
+    "id": "MSP",
+    "community": "Main-Spessart-Kreis",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "MST": {
+    "id": "MST",
+    "community": "Mecklenburg-Strelitz",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "MTK": {
+    "id": "MTK",
+    "community": "Main-Taunus-Kreis",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "MÜ": {
+    "id": "MÜ",
+    "community": "Mühldorf am Inn",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "MÜR": {
+    "id": "MÜR",
+    "community": "Müritz",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "MVL": {
+    "id": "MVL",
+    "community": "Mecklenburg-Vorpommern Landesregierung und Landtag",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "MYK": {
+    "id": "MYK",
+    "community": "Mayen-Koblenz",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "MZ": {
+    "id": "MZ",
+    "community": "Mainz",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "MZG": {
+    "id": "MZG",
+    "community": "Merzig-Wadern",
+    "state": {
+      "shortCut": "sl",
+      "name": "Saarland"
+    }
+  },
+  "N": {
+    "id": "N",
+    "community": "Nürnberg",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "NB": {
+    "id": "NB",
+    "community": "Neubrandenburg",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "ND": {
+    "id": "ND",
+    "community": "Neuburg-Schrobenhausen",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "NDH": {
+    "id": "NDH",
+    "community": "Nordhausen",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "NE": {
+    "id": "NE",
+    "community": "Neuss",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "NEA": {
+    "id": "NEA",
+    "community": "Neustadt-Bad Windsheim/Aisch",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "NES": {
+    "id": "NES",
+    "community": "Bad Neustadt/Saale",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "NEW": {
+    "id": "NEW",
+    "community": "Neustadt/Waldnaab",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "NF": {
+    "id": "NF",
+    "community": "Nordfriesland",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "NI": {
+    "id": "NI",
+    "community": "Nienburg",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "NK": {
+    "id": "NK",
+    "community": "Neunkirchen",
+    "state": {
+      "shortCut": "sl",
+      "name": "Saarland"
+    }
+  },
+  "NL": {
+    "id": "NL",
+    "community": "Niedersachsen Landesregierung und Landtag",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "NM": {
+    "id": "NM",
+    "community": "Neumarkt/Oberpfalz",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "NMS": {
+    "id": "NMS",
+    "community": "Neumünster",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "NOH": {
+    "id": "NOH",
+    "community": "Nordhorn",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "NOM": {
+    "id": "NOM",
+    "community": "Northeim",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "NR": {
+    "id": "NR",
+    "community": "Neuwied",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "Nordrhein-Westfalen": {
+    "id": "Nordrhein-Westfalen",
+    "community": "Nordrhein-Westfalen Landesregierung und Landtag",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "NU": {
+    "id": "NU",
+    "community": "Neu-Ulm",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "NVP": {
+    "id": "NVP",
+    "community": "Nordvorpommern",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "NW": {
+    "id": "NW",
+    "community": "Neustadt/Weinstraße",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "NWM": {
+    "id": "NWM",
+    "community": "Nordwestmecklenburg",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "OA": {
+    "id": "OA",
+    "community": "Oberallgäu / Sonthofen",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "OAL": {
+    "id": "OAL",
+    "community": "Ostallgäu",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "OB": {
+    "id": "OB",
+    "community": "Oberhausen",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "OD": {
+    "id": "OD",
+    "community": "Bad Oldesloe",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "OE": {
+    "id": "OE",
+    "community": "Olpe",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "OF": {
+    "id": "OF",
+    "community": "Offenbach/Main",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "OG": {
+    "id": "OG",
+    "community": "Offenburg",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "OH": {
+    "id": "OH",
+    "community": "Ostholstein / Eutin",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "OHA": {
+    "id": "OHA",
+    "community": "Osterode/Harz",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "OHV": {
+    "id": "OHV",
+    "community": "Oberhavel",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "OHZ": {
+    "id": "OHZ",
+    "community": "Osterholz-Scharmbeck",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "OL": {
+    "id": "OL",
+    "community": "Oldenburg",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "OPR": {
+    "id": "OPR",
+    "community": "Ostprignitz-Ruppin",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "OS": {
+    "id": "OS",
+    "community": "Osnabrück",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "OSL": {
+    "id": "OSL",
+    "community": "Oberspreewald-Lausitz",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "OVP": {
+    "id": "OVP",
+    "community": "Ostvorpommern",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "P": {
+    "id": "P",
+    "community": "Potsdam",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "PA": {
+    "id": "PA",
+    "community": "Passau",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "PAF": {
+    "id": "PAF",
+    "community": "Pfaffenhofen",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "PAN": {
+    "id": "PAN",
+    "community": "Pfarrkirchen",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "PB": {
+    "id": "PB",
+    "community": "Paderborn",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "PCH": {
+    "id": "PCH",
+    "community": "Parchim",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "PE": {
+    "id": "PE",
+    "community": "Peine",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "PF": {
+    "id": "PF",
+    "community": "Pforzheim",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "PI": {
+    "id": "PI",
+    "community": "Pinneberg",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "PIR": {
+    "id": "PIR",
+    "community": "Pirna/Sächsische Schweiz",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "PLÖ": {
+    "id": "PLÖ",
+    "community": "Plön",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "PM": {
+    "id": "PM",
+    "community": "Potsdam-Mittelmark",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "PR": {
+    "id": "PR",
+    "community": "Prignitz / Perleberg",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "PS": {
+    "id": "PS",
+    "community": "Pirmasens",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "R": {
+    "id": "R",
+    "community": "Regensburg",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "RA": {
+    "id": "RA",
+    "community": "Rastatt",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "RD": {
+    "id": "RD",
+    "community": "Rendsburg-Eckernförde",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "RE": {
+    "id": "RE",
+    "community": "Recklinghausen",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "REG": {
+    "id": "REG",
+    "community": "Regen",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "RO": {
+    "id": "RO",
+    "community": "Rosenheim",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "ROS": {
+    "id": "ROS",
+    "community": "Rostock/Landkreis",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "ROW": {
+    "id": "ROW",
+    "community": "Rotenburg/Wümme",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "RP": {
+    "id": "RP",
+    "community": "Rhein-Pfalz-Kreis",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "RPL": {
+    "id": "RPL",
+    "community": "Rheinland-Pfalzlz Landesregierung und Landtag",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "RS": {
+    "id": "RS",
+    "community": "Remscheid",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "RT": {
+    "id": "RT",
+    "community": "Reutlingen",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "RÜD": {
+    "id": "RÜD",
+    "community": "Rüdesheim",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "RÜG": {
+    "id": "RÜG",
+    "community": "Rügen",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "RV": {
+    "id": "RV",
+    "community": "Ravensburg",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "RW": {
+    "id": "RW",
+    "community": "Rottweil",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "RZ": {
+    "id": "RZ",
+    "community": "Ratzeburg",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "S": {
+    "id": "S",
+    "community": "Stuttgart",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "SAD": {
+    "id": "SAD",
+    "community": "Schwandorf",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "SAL": {
+    "id": "SAL",
+    "community": "Saarland Landesregierung und Landtag",
+    "state": {
+      "shortCut": "sl",
+      "name": "Saarland"
+    }
+  },
+  "SAW": {
+    "id": "SAW",
+    "community": "Salzwedel",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "SB": {
+    "id": "SB",
+    "community": "Saarbrücken",
+    "state": {
+      "shortCut": "sl",
+      "name": "Saarland"
+    }
+  },
+  "SC": {
+    "id": "SC",
+    "community": "Schwabach",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "SDL": {
+    "id": "SDL",
+    "community": "Stendal",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "SE": {
+    "id": "SE",
+    "community": "Bad Segeberg",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "SG": {
+    "id": "SG",
+    "community": "Solingen",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "SH": {
+    "id": "SH",
+    "community": "Schleswig-Holstein Landesregierung und Landtag",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "SHA": {
+    "id": "SHA",
+    "community": "Schwäbisch Hall",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "SHG": {
+    "id": "SHG",
+    "community": "Stadthagen",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "SHK": {
+    "id": "SHK",
+    "community": "Saale-Holzlandkreis",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "SHL": {
+    "id": "SHL",
+    "community": "Suhl",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "SI": {
+    "id": "SI",
+    "community": "Siegen-Wittgenstein",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "SIG": {
+    "id": "SIG",
+    "community": "Sigmaringen",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "SIM": {
+    "id": "SIM",
+    "community": "Rhein-Hunsrück-Kreis",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "SK": {
+    "id": "SK",
+    "community": "Saalkreis",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "SL": {
+    "id": "SL",
+    "community": "Schleswig-Flensburg",
+    "state": {
+      "shortCut": "sh",
+      "name": "Schleswig-Holstein"
+    }
+  },
+  "SLF": {
+    "id": "SLF",
+    "community": "Saalfeld-Rudolstadt",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "SLK": {
+    "id": "SLK",
+    "community": "Salzlandkreis",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "SLS": {
+    "id": "SLS",
+    "community": "Saarlouis",
+    "state": {
+      "shortCut": "sl",
+      "name": "Saarland"
+    }
+  },
+  "SM": {
+    "id": "SM",
+    "community": "Schmalkalden-Meiningen",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "SN": {
+    "id": "SN",
+    "community": "Schwerin",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "SO": {
+    "id": "SO",
+    "community": "Soest",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "SOK": {
+    "id": "SOK",
+    "community": "Saale-Orla-Kreis",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "SÖM": {
+    "id": "SÖM",
+    "community": "Sömmerda",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "SON": {
+    "id": "SON",
+    "community": "Sonneberg",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "SP": {
+    "id": "SP",
+    "community": "Speyer",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "SPN": {
+    "id": "SPN",
+    "community": "Spree-Neiße",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "SR": {
+    "id": "SR",
+    "community": "Straubing-Bogen",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "ST": {
+    "id": "ST",
+    "community": "Steinfurt",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "STA": {
+    "id": "STA",
+    "community": "Starnberg",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "STD": {
+    "id": "STD",
+    "community": "Stade",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "SU": {
+    "id": "SU",
+    "community": "Siegburg",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "SÜW": {
+    "id": "SÜW",
+    "community": "Südliche Weinstraße",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "SW": {
+    "id": "SW",
+    "community": "Schweinfurt",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "SZ": {
+    "id": "SZ",
+    "community": "Salzgitter",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "TDO": {
+    "id": "TDO",
+    "community": "Nordsachsen",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "TBB": {
+    "id": "TBB",
+    "community": "Tauberbischofsheim",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "TF": {
+    "id": "TF",
+    "community": "Teltow-Fläming",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "TG": {
+    "id": "TG",
+    "community": "Torgau",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "THL": {
+    "id": "THL",
+    "community": "Thüringen Landesregierung und Landtag",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "THW": {
+    "id": "THW",
+    "community": "Technisches Hilfswerk",
+    "state": {
+      "name": ""
+    }
+  },
+  "TIR": {
+    "id": "TIR",
+    "community": "Tirschenreuth",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "TÖL": {
+    "id": "TÖL",
+    "community": "Bad Tölz",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "TR": {
+    "id": "TR",
+    "community": "Trier",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "TS": {
+    "id": "TS",
+    "community": "Traunstein",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "TÜ": {
+    "id": "TÜ",
+    "community": "Tübingen",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "TUT": {
+    "id": "TUT",
+    "community": "Tuttlingen",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "UE": {
+    "id": "UE",
+    "community": "Uelzen",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "UL": {
+    "id": "UL",
+    "community": "Ulm",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "UM": {
+    "id": "UM",
+    "community": "Uckermark",
+    "state": {
+      "shortCut": "bb",
+      "name": "Brandenburg"
+    }
+  },
+  "UN": {
+    "id": "UN",
+    "community": "Unna",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "V": {
+    "id": "V",
+    "community": "Vogtlandkreis",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "VB": {
+    "id": "VB",
+    "community": "Vogelsbergkreis",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "VEC": {
+    "id": "VEC",
+    "community": "Vechta",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "VER": {
+    "id": "VER",
+    "community": "Verden",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "VIE": {
+    "id": "VIE",
+    "community": "Viersen",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "VK": {
+    "id": "VK",
+    "community": "Völklingen",
+    "state": {
+      "shortCut": "sl",
+      "name": "Saarland"
+    }
+  },
+  "VR": {
+    "id": "VR",
+    "community": "Vorpommern-Rügen",
+    "state": {
+      "shortCut": "mv",
+      "name": "Mecklenburg-Vorpommern"
+    }
+  },
+  "VS": {
+    "id": "VS",
+    "community": "Villingen-Schwenningen",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "W": {
+    "id": "W",
+    "community": "Wuppertal",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "WAF": {
+    "id": "WAF",
+    "community": "Warendorf",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "WAK": {
+    "id": "WAK",
+    "community": "Wartburgkreis",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "WB": {
+    "id": "WB",
+    "community": "Wittenberg",
+    "state": {
+      "shortCut": "st",
+      "name": "Sachsen-Anhalt"
+    }
+  },
+  "WE": {
+    "id": "WE",
+    "community": "Weimar",
+    "state": {
+      "shortCut": "th",
+      "name": "Thüringen"
+    }
+  },
+  "WEN": {
+    "id": "WEN",
+    "community": "Weiden",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "WES": {
+    "id": "WES",
+    "community": "Wesel",
+    "state": {
+      "shortCut": "nw",
+      "name": "Nordrhein-Westfalen"
+    }
+  },
+  "WF": {
+    "id": "WF",
+    "community": "Wolfenbüttel",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "WHV": {
+    "id": "WHV",
+    "community": "Wilhelmshaven",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "WI": {
+    "id": "WI",
+    "community": "Wiesbaden",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "WIL": {
+    "id": "WIL",
+    "community": "Wittlich",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "WL": {
+    "id": "WL",
+    "community": "Winsen/Luhe",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "WM": {
+    "id": "WM",
+    "community": "Weilheim-Schongau",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "WN": {
+    "id": "WN",
+    "community": "Waiblingen",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "WND": {
+    "id": "WND",
+    "community": "St. Wendel",
+    "state": {
+      "shortCut": "sl",
+      "name": "Saarland"
+    }
+  },
+  "WO": {
+    "id": "WO",
+    "community": "Worms",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "WOB": {
+    "id": "WOB",
+    "community": "Wolfsburg",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "WST": {
+    "id": "WST",
+    "community": "Westerstede",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "WT": {
+    "id": "WT",
+    "community": "Waldshut-Tiengen",
+    "state": {
+      "shortCut": "bw",
+      "name": "Baden-Württemberg"
+    }
+  },
+  "WTM": {
+    "id": "WTM",
+    "community": "Wittmund",
+    "state": {
+      "shortCut": "ni",
+      "name": "Niedersachsen"
+    }
+  },
+  "WÜ": {
+    "id": "WÜ",
+    "community": "Würzburg",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "WUG": {
+    "id": "WUG",
+    "community": "Weißenburg-Gunzenhausen",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "WUN": {
+    "id": "WUN",
+    "community": "Wunsiedel",
+    "state": {
+      "shortCut": "by",
+      "name": "Bayern"
+    }
+  },
+  "WW": {
+    "id": "WW",
+    "community": "Westerwald",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  },
+  "WZ": {
+    "id": "WZ",
+    "community": "Wetzlar",
+    "state": {
+      "shortCut": "he",
+      "name": "Hessen"
+    }
+  },
+  "Y": {
+    "id": "Y",
+    "community": "Bundeswehr",
+    "state": {
+      "name": ""
+    }
+  },
+  "Z": {
+    "id": "Z",
+    "community": "Zwickau",
+    "state": {
+      "shortCut": "sn",
+      "name": "Sachsen"
+    }
+  },
+  "ZW": {
+    "id": "ZW",
+    "community": "Zweibrücken",
+    "state": {
+      "shortCut": "rp",
+      "name": "Rheinland-Pfalz"
+    }
+  }
+}
