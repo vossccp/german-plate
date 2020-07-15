@@ -55,7 +55,7 @@ suite('PlateNumber', () => {
       test(`throws an error when parsing '${testCase}'`, () => {
         assert.throws(() => {
           PlateNumber.parse(testCase);
-        }, 'Invalid plate number');
+        });
       });
     });
 
@@ -78,7 +78,7 @@ suite('PlateNumber', () => {
     test('empty string throws an error', () => {
       assert.throws(() => {
         PlateNumber.parse('');
-      }, 'Invalid plate number');
+      });
     });
   });
 });
