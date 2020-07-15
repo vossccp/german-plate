@@ -79,7 +79,7 @@ export class PlateNumber {
         }
 
         if (str === undefined || str === null) {
-            return undefined;
+            throw new Error('Arguments must be defined');
         }
 
         let parseString = str.trim().toUpperCase();
@@ -155,8 +155,7 @@ export class PlateNumber {
         }
 
         // @ts-ignore
-        let registrationCommunity : RegistrationCommunity = plateNumbers[community];
-
+        let registrationCommunity: RegistrationCommunity = plateNumbers[community];
         if (!registrationCommunity) {
             registrationCommunity = {
                 id: community,

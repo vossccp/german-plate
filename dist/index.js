@@ -74,7 +74,7 @@ var PlateNumber = /** @class */ (function () {
             throw new Error('Arguments missing');
         }
         if (str === undefined || str === null) {
-            return undefined;
+            throw new Error('Arguments must be defined');
         }
         var parseString = str.trim().toUpperCase();
         var isElectricVehicle = false;

@@ -6,13 +6,16 @@ interface RegistrationCommunity {
         name: string;
     };
 }
-export declare class PlateNumber {
-    static parse(str: string | null): PlateNumber | undefined;
+
+export default class PlateNumber {
+    static parse(str: string | null): PlateNumber;
+
     registrationCommunity: RegistrationCommunity;
     alphanumeric: string;
     numeric: number;
     suffix: string;
+
     constructor(registrationCommunity: RegistrationCommunity, alphanumeric: string, numeric: number, isElectricVehicle: boolean);
+
     toString(): string;
 }
-export {};
