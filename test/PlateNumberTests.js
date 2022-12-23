@@ -2,7 +2,7 @@
 
 const assert = require('assert');
 
-const PlateNumber  = require('../dist');
+const PlateNumber = require('../dist');
 
 suite('PlateNumber', () => {
   suite('parse', () => {
@@ -36,11 +36,11 @@ suite('PlateNumber', () => {
     positive.forEach(testCase => {
       test(`returns '${testCase.expected}' when provided '${
         testCase.actual
-      }'`, () => {
-        const result = PlateNumber.parse(testCase.actual);
+        }'`, () => {
+          const result = PlateNumber.parse(testCase.actual);
 
-        assert.equal(result, testCase.expected);
-      });
+          assert.equal(result, testCase.expected);
+        });
     });
 
     const negative = [
@@ -48,7 +48,9 @@ suite('PlateNumber', () => {
       'F-BZ 1234567',
       'XX XXXX KU 101',
       'FUE 101',
-      'FUE KU'
+      'FUE KU',
+      null,
+      undefined
     ];
 
     negative.forEach(testCase => {
@@ -59,20 +61,13 @@ suite('PlateNumber', () => {
       });
     });
 
-    const validButNoRegistrationCommunity = [ 'XX KU 101' ];
+    const validButNoRegistrationCommunity = ['XX KU 101'];
 
     validButNoRegistrationCommunity.forEach(testCase => {
       test(`accepts unknow registration communities '${testCase}'`, () => {
         const result = PlateNumber.parse(testCase);
-
         assert.equal('XX', result.registrationCommunity.id);
       });
-    });
-
-    test('null string return undefined plate number', () => {
-      const result = PlateNumber.parse(null);
-
-      assert.equal(undefined, result);
     });
 
     test('empty string throws an error', () => {
