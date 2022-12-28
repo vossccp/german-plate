@@ -101,17 +101,38 @@ var PlateNumber = /** @class */ (function () {
                 }
             }
             if (j === 1) {
-                if (isLetter(parseString[i])) {
-                    alphanumeric += parseString[i];
-                }
-                else {
-                    if (!alphanumeric) {
+                switch (parseString[i]) {
+                    case ' ':
+                    case '-':
+                    case '.':
                         continue;
-                    }
+                }
+                if (isLetter(parseString[i])) {
                     j = 2;
+                }
+                else if (isDigit(parseString[i])) {
+                    j = 4;
                 }
             }
             if (j === 2) {
+                if (isLetter(parseString[i])) {
+                    alphanumeric += parseString[i];
+                    continue;
+                }
+                j = 3;
+            }
+            if (j === 3) {
+                switch (parseString[i]) {
+                    case ' ':
+                    case '-':
+                    case '.':
+                        continue;
+                }
+                if (isDigit(parseString[i])) {
+                    j = 4;
+                }
+            }
+            if (j === 4) {
                 if (isDigit(parseString[i])) {
                     numeric += parseString[i];
                 }
@@ -128,14 +149,18 @@ var PlateNumber = /** @class */ (function () {
             }
         }
         var numericValue = parseInt(numeric, 0);
-        if (alphanumeric === '') {
-            throw new Error('Invalid plate number');
-        }
         if (isNaN(numericValue)) {
             throw new Error('Invalid plate number');
         }
-        if (numericValue > 9999) {
-            throw new Error('Invalid plate number');
+        if (!alphanumeric || alphanumeric === '') {
+            if (numericValue > 999999) {
+                throw new Error('Invalid plate number');
+            }
+        }
+        else {
+            if (numericValue > 9999) {
+                throw new Error('Invalid plate number');
+            }
         }
         if (alternativePrefixes[community]) {
             community = alternativePrefixes[community];
@@ -155,7 +180,12 @@ var PlateNumber = /** @class */ (function () {
         return new PlateNumber(registrationCommunity, alphanumeric, numericValue, isElectricVehicle);
     };
     PlateNumber.prototype.toString = function () {
-        return this.registrationCommunity.id + "-" + this.alphanumeric + " " + this.numeric + this.suffix;
+        if (this.alphanumeric) {
+            return this.registrationCommunity.id + "-" + this.alphanumeric + " " + this.numeric + this.suffix;
+        }
+        else {
+            return this.registrationCommunity.id + "-" + this.numeric + this.suffix;
+        }
     };
     return PlateNumber;
 }());

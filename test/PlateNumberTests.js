@@ -30,7 +30,9 @@ suite('PlateNumber', () => {
       { expected: 'D-IG 70E', actual: 'D -IG 0070E' },
       { expected: 'GÜ-E 600E', actual: 'GUE-E 0600E' },
       { expected: 'E-DS 5432E', actual: 'E  -DS5432E' },
-      { expected: 'ST-CB 145E', actual: 'ST -CB 145E' }
+      { expected: 'ST-CB 145E', actual: 'ST -CB 145E' },
+      { expected: 'FTL-MM 42E', actual: 'FTL-MM 42E' },
+      { expected: 'NRW-123456', actual: 'NRW- 123456' },
     ];
 
     positive.forEach(testCase => {
@@ -46,9 +48,10 @@ suite('PlateNumber', () => {
     const negative = [
       'D H-X 213',
       'F-BZ 1234567',
+      'F-BZ 12345',
       'XX XXXX KU 101',
-      'FUE 101',
       'FUE KU',
+      'RPL 1234567',
       null,
       undefined
     ];
