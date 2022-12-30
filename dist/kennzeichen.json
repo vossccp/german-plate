@@ -1,20 +1,4 @@
 {
-    "CLP": {
-        "id": "CLP",
-        "community": "Landkreis Cloppenburg",
-        "state": {
-            "shortCut": "ni",
-            "name": "Niedersachsen"
-        }
-    },
-    "NT": {
-        "id": "NT",
-        "community": "Landkreis Esslingen",
-        "state": {
-            "shortCut": "bw",
-            "name": "Baden-Württemberg"
-        }
-    },
     "A": {
         "id": "A",
         "community": "Augsburg",
@@ -39,20 +23,20 @@
             "name": "Bayern"
         }
     },
-    "ABI": {
-        "id": "ABI",
-        "community": "Anhalt-Bitterfeld",
-        "state": {
-            "shortCut": "st",
-            "name": "Sachsen-Anhalt"
-        }
-    },
     "ABG": {
         "id": "ABG",
         "community": "Altenburger Land",
         "state": {
             "shortCut": "th",
             "name": "Thüringen"
+        }
+    },
+    "ABI": {
+        "id": "ABI",
+        "community": "Anhalt-Bitterfeld",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
         }
     },
     "AC": {
@@ -71,6 +55,22 @@
             "name": "Sachsen"
         }
     },
+    "AH": {
+        "id": "AH",
+        "community": "Ahaus-Borken",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "AIB": {
+        "id": "AIB",
+        "community": "München-Rosenheim",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "AIC": {
         "id": "AIC",
         "community": "Aichach-Friedberg",
@@ -85,6 +85,22 @@
         "state": {
             "shortCut": "rp",
             "name": "Rheinland-Pfalz"
+        }
+    },
+    "ALF": {
+        "id": "ALF",
+        "community": "Hildesheim",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
+        }
+    },
+    "ALZ": {
+        "id": "ALZ",
+        "community": "Aschaffenburg",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
         }
     },
     "AM": {
@@ -103,6 +119,30 @@
             "name": "Bayern"
         }
     },
+    "ANA": {
+        "id": "ANA",
+        "community": "Anaberg - Erzgebirgskreis",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "ANG": {
+        "id": "ANG",
+        "community": "Landkreis Uckermark",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
+    "ANK": {
+        "id": "ANK",
+        "community": "Landkreis Vorpommern-Greifswald",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
     "AÖ": {
         "id": "AÖ",
         "community": "Altötting",
@@ -119,12 +159,68 @@
             "name": "Thüringen"
         }
     },
+    "APD": {
+        "id": "APD",
+        "community": "Apolda - Weimarer Land",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
+        }
+    },
+    "ARN": {
+        "id": "ARN",
+        "community": "Kyffhäuserkreis",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
+        }
+    },
+    "ART": {
+        "id": "ART",
+        "community": "Kyffhäuserkreis",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
+        }
+    },
     "AS": {
         "id": "AS",
         "community": "Amberg-Sulzbach",
         "state": {
             "shortCut": "by",
             "name": "Bayern"
+        }
+    },
+    "ASL": {
+        "id": "ASL",
+        "community": "Salzlandkreis",
+        "state": {
+            "shortCut": "by",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "ASZ": {
+        "id": "ASZ",
+        "community": "Erzgebirgskreis",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "AT": {
+        "id": "AT",
+        "community": "Landkreis Mecklenburgische Seenplatte",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
+    "AU": {
+        "id": "AU",
+        "community": "Erzgebirgskreis",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
         }
     },
     "AUR": {
@@ -149,6 +245,14 @@
         "state": {
             "shortCut": "rp",
             "name": "Rheinland-Pfalz"
+        }
+    },
+    "AZE": {
+        "id": "AZE",
+        "community": "Landkreis Anhalt-Bitterfeld",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
         }
     },
     "B": {
@@ -191,9 +295,25 @@
             "name": "Baden-Württemberg"
         }
     },
+    "BBL": {
+        "id": "BBL",
+        "community": "Brandenburg Landesregierung und Landtag",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
     "BC": {
         "id": "BC",
         "community": "Biberach/Riß",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
+        }
+    },
+    "BCH": {
+        "id": "BCH",
+        "community": "Neckar-Odenwald-Kreis",
         "state": {
             "shortCut": "bw",
             "name": "Baden-Württemberg"
@@ -203,7 +323,48 @@
         "id": "BD",
         "community": "Bundestag, Bundesrat, Bundesregierung",
         "state": {
+            "shortCut": null,
             "name": ""
+        }
+    },
+    "BE": {
+        "id": "BE",
+        "community": "Kreis Warendorf",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "BED": {
+        "id": "BED",
+        "community": "Landkreis Mittelsachsen",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "BER": {
+        "id": "BER",
+        "community": "Landkreis Barnim",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
+    "BF": {
+        "id": "BF",
+        "community": "Kreis Steinfurt",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "BGD": {
+        "id": "BGD",
+        "community": "Landkreis Berchtesgadener Land",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
         }
     },
     "BGL": {
@@ -214,12 +375,36 @@
             "name": "Bayern"
         }
     },
+    "BH": {
+        "id": "BH",
+        "community": "Ortenaukreis - Landkreis Rastatt",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
+        }
+    },
     "BI": {
         "id": "BI",
         "community": "Bielefeld",
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
+        }
+    },
+    "BID": {
+        "id": "BID",
+        "community": "Landkreis Marburg-Biedenkopf",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
+    "BIN": {
+        "id": "BIN",
+        "community": "Landkreis Mainz-Bingen",
+        "state": {
+            "shortCut": "rp",
+            "name": "Rheinland-Pfalz"
         }
     },
     "BIR": {
@@ -238,6 +423,14 @@
             "name": "Rheinland-Pfalz"
         }
     },
+    "BIW": {
+        "id": "BIW",
+        "community": "Landkreis Bautzen",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
     "BK": {
         "id": "BK",
         "community": "Bochum",
@@ -246,12 +439,28 @@
             "name": "Sachsen-Anhalt"
         }
     },
+    "BKS": {
+        "id": "BKS",
+        "community": "Landkreis Bernkastel-Wittlich",
+        "state": {
+            "shortCut": "rp",
+            "name": "Rheinland-Pfalz"
+        }
+    },
     "BL": {
         "id": "BL",
         "community": "Zollernalbkreis / Balingen",
         "state": {
             "shortCut": "bw",
             "name": "Baden-Württemberg"
+        }
+    },
+    "BLB": {
+        "id": "BLB",
+        "community": "Kreis Siegen-Wittgenstein",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
         }
     },
     "BLK": {
@@ -278,9 +487,41 @@
             "name": "Nordrhein-Westfalen"
         }
     },
+    "BNA": {
+        "id": "BNA",
+        "community": "Landkreis Leipzig",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
     "BO": {
         "id": "BO",
         "community": "Bochum",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "BÖ": {
+        "id": "BÖ",
+        "community": "Landkreis Börde",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "BOG": {
+        "id": "BOG",
+        "community": "Landkreis Straubing-Bogen",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "BOH": {
+        "id": "BOH",
+        "community": "Kreis Borken",
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
@@ -306,6 +547,7 @@
         "id": "BP",
         "community": "Bundespolizei",
         "state": {
+            "shortCut": null,
             "name": ""
         }
     },
@@ -325,12 +567,60 @@
             "name": "Brandenburg"
         }
     },
+    "BRG": {
+        "id": "BRG",
+        "community": "Landkreis Jerichower Land",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "BRK": {
+        "id": "BRK",
+        "community": "Landkreis Bad Kissingen",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "BRL": {
+        "id": "BRL",
+        "community": "Landkreis Goslar",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
+        }
+    },
+    "BRV": {
+        "id": "BRV",
+        "community": "Landkreis Rotenburg (Wümme)",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
+        }
+    },
     "BS": {
         "id": "BS",
         "community": "Braunschweig",
         "state": {
             "shortCut": "ni",
             "name": "Niedersachsen"
+        }
+    },
+    "BSB": {
+        "id": "BSB",
+        "community": "Landkreis Osnabrück",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
+        }
+    },
+    "BSK": {
+        "id": "BSK",
+        "community": "Landkreis Oder-Spree",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
         }
     },
     "BT": {
@@ -349,6 +639,30 @@
             "name": "Sachsen-Anhalt"
         }
     },
+    "BÜD": {
+        "id": "BÜD",
+        "community": "Wetteraukreis",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
+    "BUL": {
+        "id": "BUL",
+        "community": "Landkreis Amberg-Sulzbach / Landkreis Schwandorf",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "BÜR": {
+        "id": "BÜR",
+        "community": "Kreis Paderborn",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
     "BÜS": {
         "id": "BÜS",
         "community": "Büsingen am Hochrhein",
@@ -357,10 +671,19 @@
             "name": "Baden-Württemberg"
         }
     },
+    "BÜZ": {
+        "id": "BÜZ",
+        "community": "Landkreis Rostock",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
     "BW": {
         "id": "BW",
         "community": "Bundes-Wasser- und Schiffahrtsverwaltung",
         "state": {
+            "shortCut": null,
             "name": ""
         }
     },
@@ -376,6 +699,7 @@
         "id": "BYL",
         "community": "Bayern Landesregierung und Landtag",
         "state": {
+            "shortCut": null,
             "name": ""
         }
     },
@@ -393,6 +717,22 @@
         "state": {
             "shortCut": "sn",
             "name": "Sachsen"
+        }
+    },
+    "CA": {
+        "id": "CA",
+        "community": "Landkreis Oberspreewald-Lausitz",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
+    "CAS": {
+        "id": "CAS",
+        "community": "Kreis Recklinghausen",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
         }
     },
     "CB": {
@@ -419,6 +759,22 @@
             "name": "Bayern"
         }
     },
+    "CLP": {
+        "id": "CLP",
+        "community": "Landkreis Cloppenburg",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
+        }
+    },
+    "CLZ": {
+        "id": "CLZ",
+        "community": "Landkreis Goslar",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
+        }
+    },
     "CO": {
         "id": "CO",
         "community": "Coburg",
@@ -441,6 +797,14 @@
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
+        }
+    },
+    "CR": {
+        "id": "CR",
+        "community": "Landkreis Schwäbisch Hall",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
         }
     },
     "CUX": {
@@ -555,6 +919,46 @@
             "name": "Niedersachsen"
         }
     },
+    "DI": {
+        "id": "DI",
+        "community": "Landkreis Darmstadt-Dieburg",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
+    "DIL": {
+        "id": "DIL",
+        "community": "Lahn-Dill-Kreis",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
+    "DIN": {
+        "id": "DIN",
+        "community": "Kreis Wesel",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "DIZ": {
+        "id": "DIZ",
+        "community": "Rhein-Lahn-Kreis",
+        "state": {
+            "shortCut": "rp",
+            "name": "Rheinland-Pfalz"
+        }
+    },
+    "DKB": {
+        "id": "DKB",
+        "community": "Landkreis Ansbach",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "DL": {
         "id": "DL",
         "community": "Döbeln",
@@ -571,6 +975,14 @@
             "name": "Bayern"
         }
     },
+    "DM": {
+        "id": "DM",
+        "community": "Landkreis Mecklenburgische Seenplatte",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
     "DN": {
         "id": "DN",
         "community": "Düren",
@@ -579,8 +991,8 @@
             "name": "Nordrhein-Westfalen"
         }
     },
-    "Do": {
-        "id": "Do",
+    "DO": {
+        "id": "DO",
         "community": "Dortmund",
         "state": {
             "shortCut": "nw",
@@ -603,12 +1015,36 @@
             "name": "Nordrhein-Westfalen"
         }
     },
+    "DUD": {
+        "id": "DUD",
+        "community": "Landkreis Göttingen",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
+        }
+    },
     "DÜW": {
         "id": "DÜW",
         "community": "Bad Dürkheim / Neustadt/Weinstraße",
         "state": {
             "shortCut": "rp",
             "name": "Rheinland-Pfalz"
+        }
+    },
+    "DW": {
+        "id": "DW",
+        "community": "Landkreis Sächsische Schweiz-Osterzgebirge",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "DZ": {
+        "id": "DZ",
+        "community": "Landkreis Nordsachsen",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
         }
     },
     "E": {
@@ -643,6 +1079,30 @@
             "name": "Bayern"
         }
     },
+    "EBN": {
+        "id": "EBN",
+        "community": "Landkreis Haßberge",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "EBS": {
+        "id": "EBS",
+        "community": "Landkreis Bayreuth / Landkreis Forchheim / Landkreis Kulmbach",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "ECK": {
+        "id": "ECK",
+        "community": "Kreis Rendsburg-Eckernförde",
+        "state": {
+            "shortCut": "sh",
+            "name": "Schleswig-Holstein"
+        }
+    },
     "ED": {
         "id": "ED",
         "community": "Erding",
@@ -667,6 +1127,22 @@
             "name": "Thüringen"
         }
     },
+    "EG": {
+        "id": "EG",
+        "community": "Landkreis Rottal-Inn",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "EH": {
+        "id": "EH",
+        "community": "Landkreis Oder-Spree",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
     "EI": {
         "id": "EI",
         "community": "Eichstätt",
@@ -678,6 +1154,30 @@
     "EIC": {
         "id": "EIC",
         "community": "Eichsfeld",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
+        }
+    },
+    "EIL": {
+        "id": "EIL",
+        "community": "Landkreis Mansfeld-Südharz",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "EIN": {
+        "id": "EIN",
+        "community": "Landkreis Northeim",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
+        }
+    },
+    "EIS": {
+        "id": "EIS",
+        "community": "Saale-Holzland-Kreis",
         "state": {
             "shortCut": "th",
             "name": "Thüringen"
@@ -747,6 +1247,14 @@
             "name": "Bayern"
         }
     },
+    "ERK": {
+        "id": "ERK",
+        "community": "Kreis Heinsberg",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
     "ERZ": {
         "id": "ERZ",
         "community": "Erzgebirgskreis",
@@ -763,6 +1271,14 @@
             "name": "Baden-Württemberg"
         }
     },
+    "ESB": {
+        "id": "ESB",
+        "community": "Landkreis Amberg-Sulzbach / Landkreis Bayreuth / Landkreis Neustadt an der Waldnaab / Landkreis Nürnberger Land",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "ESW": {
         "id": "ESW",
         "community": "Eschwege",
@@ -777,6 +1293,14 @@
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
+        }
+    },
+    "EW": {
+        "id": "EW",
+        "community": "Landkreis Barnim",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
         }
     },
     "F": {
@@ -803,12 +1327,28 @@
             "name": "Hessen"
         }
     },
+    "FDB": {
+        "id": "FDB",
+        "community": "Landkreis Aichach-Friedberg",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "FDS": {
         "id": "FDS",
         "community": "Freudenstadt",
         "state": {
             "shortCut": "bw",
             "name": "Baden-Württemberg"
+        }
+    },
+    "FEU": {
+        "id": "FEU",
+        "community": "Landkreis Ansbach",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
         }
     },
     "FF": {
@@ -835,12 +1375,36 @@
             "name": "Sachsen"
         }
     },
+    "FI": {
+        "id": "FI",
+        "community": "Landkreis Elbe-Elster",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
+    "FKB": {
+        "id": "FKB",
+        "community": "Landkreis Waldeck-Frankenberg",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
     "FL": {
         "id": "FL",
         "community": "Flensburg",
         "state": {
             "shortCut": "sh",
             "name": "Schleswig-Holstein"
+        }
+    },
+    "FLÖ": {
+        "id": "FLÖ",
+        "community": "Landkreis Mittelsachsen",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
         }
     },
     "FN": {
@@ -857,6 +1421,14 @@
         "state": {
             "shortCut": "by",
             "name": "Bayern"
+        }
+    },
+    "FOR": {
+        "id": "FOR",
+        "community": "Landkreis Spree-Neiße",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
         }
     },
     "FR": {
@@ -883,6 +1455,14 @@
             "name": "Niedersachsen"
         }
     },
+    "FRW": {
+        "id": "FRW",
+        "community": "Landkreis Märkisch-Oderland",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
     "FS": {
         "id": "FS",
         "community": "Freising",
@@ -899,12 +1479,44 @@
             "name": "Rheinland-Pfalz"
         }
     },
+    "FTL": {
+        "id": "FTL",
+        "community": "Landkreis Sächsische Schweiz-Osterzgebirge",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
     "FÜ": {
         "id": "FÜ",
         "community": "Fürth",
         "state": {
             "shortCut": "by",
             "name": "Bayern"
+        }
+    },
+    "FÜS": {
+        "id": "FÜS",
+        "community": "Landkreis Ostallgäu",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "FW": {
+        "id": "FW",
+        "community": "Landkreis Oder-Spree",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
+    "FZ": {
+        "id": "FZ",
+        "community": "Schwalm-Eder-Kreis",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
         }
     },
     "G": {
@@ -915,6 +1527,22 @@
             "name": "Thüringen"
         }
     },
+    "GA": {
+        "id": "GA",
+        "community": "Altmarkkreis Salzwedel",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "GAN": {
+        "id": "GAN",
+        "community": "Landkreis Northeim",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
+        }
+    },
     "GAP": {
         "id": "GAP",
         "community": "Garmisch-Partenkirchen",
@@ -923,12 +1551,52 @@
             "name": "Bayern"
         }
     },
+    "GC": {
+        "id": "GC",
+        "community": "Landkreis Zwickau",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "GD": {
+        "id": "GD",
+        "community": "Ostalbkreis",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
+        }
+    },
+    "GDB": {
+        "id": "GDB",
+        "community": "Landkreis Nordwestmecklenburg",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
     "GE": {
         "id": "GE",
         "community": "Gelsenkirchen",
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
+        }
+    },
+    "GEL": {
+        "id": "GEL",
+        "community": "Kreis Kleve",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "GEO": {
+        "id": "GEO",
+        "community": "Landkreis Haßberge / Landkreis Schweinfurt",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
         }
     },
     "GER": {
@@ -955,6 +1623,22 @@
             "name": "Hessen"
         }
     },
+    "GHA": {
+        "id": "GHA",
+        "community": "Landkreis Leipzig",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "GHC": {
+        "id": "GHC",
+        "community": "Landkreis Wittenberg",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
     "GI": {
         "id": "GI",
         "community": "Gießen",
@@ -963,9 +1647,25 @@
             "name": "Hessen"
         }
     },
+    "GK": {
+        "id": "GK",
+        "community": "Kreis Heinsberg",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
     "GL": {
         "id": "GL",
         "community": "Bergisch Gladbach",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "GLA": {
+        "id": "GLA",
+        "community": "Kreis Recklinghausen",
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
@@ -979,12 +1679,52 @@
             "name": "Nordrhein-Westfalen"
         }
     },
+    "GMN": {
+        "id": "GMN",
+        "community": "Landkreis Vorpommern-Rügen",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
+    "GN": {
+        "id": "GN",
+        "community": "Main-Kinzig-Kreis",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
+    "GNT": {
+        "id": "GNT",
+        "community": "Landkreis Jerichower Land",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
     "GÖ": {
         "id": "GÖ",
         "community": "Göttingen",
         "state": {
             "shortCut": "ni",
             "name": "Niedersachsen"
+        }
+    },
+    "GOA": {
+        "id": "GOA",
+        "community": "Rhein-Hunsrück-Kreis",
+        "state": {
+            "shortCut": "rp",
+            "name": "Rheinland-Pfalz"
+        }
+    },
+    "GOH": {
+        "id": "GOH",
+        "community": "Rhein-Lahn-Kreis",
+        "state": {
+            "shortCut": "rp",
+            "name": "Rheinland-Pfalz"
         }
     },
     "GP": {
@@ -998,6 +1738,38 @@
     "GR": {
         "id": "GR",
         "community": "Görlitz",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "GRA": {
+        "id": "GRA",
+        "community": "Landkreis Freyung-Grafenau",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "GRH": {
+        "id": "GRH",
+        "community": "Landkreis Meißen",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "GRI": {
+        "id": "GRI",
+        "community": "Landkreis Rottal-Inn",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "GRM": {
+        "id": "GRM",
+        "community": "Landkreis Leipzig",
         "state": {
             "shortCut": "sn",
             "name": "Sachsen"
@@ -1043,6 +1815,46 @@
             "name": "Mecklenburg-Vorpommern"
         }
     },
+    "GUB": {
+        "id": "GUB",
+        "community": "Landkreis Spree-Neiße",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
+    "GUN": {
+        "id": "GUN",
+        "community": "Landkreis Weißenburg-Gunzenhausen",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "GV": {
+        "id": "GV",
+        "community": "Rhein-Kreis Neuss",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "GVM": {
+        "id": "GVM",
+        "community": "Landkreis Nordwestmecklenburg",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
+    "GW": {
+        "id": "GW",
+        "community": "Landkreis Vorpommern-Greifswald",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
     "GZ": {
         "id": "GZ",
         "community": "Günzburg",
@@ -1065,6 +1877,14 @@
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
+        }
+    },
+    "HAB": {
+        "id": "HAB",
+        "community": "Landkreis Bad Kissingen",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
         }
     },
     "HAL": {
@@ -1107,6 +1927,30 @@
             "name": "Thüringen"
         }
     },
+    "HBS": {
+        "id": "HBS",
+        "community": "Landkreis Harz",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "HC": {
+        "id": "HC",
+        "community": "Landkreis Mittelsachsen",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "HCH": {
+        "id": "HCH",
+        "community": "Landkreis Freudenstadt / Zollernalbkreis",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
+        }
+    },
     "HD": {
         "id": "HD",
         "community": "Heidelberg",
@@ -1123,12 +1967,28 @@
             "name": "Baden-Württemberg"
         }
     },
+    "HDL": {
+        "id": "HDL",
+        "community": "Landkreis Börde",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
     "HE": {
         "id": "HE",
         "community": "Helmstedt",
         "state": {
             "shortCut": "ni",
             "name": "Niedersachsen"
+        }
+    },
+    "HEB": {
+        "id": "HEB",
+        "community": "Landkreis Nürnberger Land",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
         }
     },
     "HEF": {
@@ -1163,6 +2023,14 @@
             "name": "Nordrhein-Westfalen"
         }
     },
+    "HET": {
+        "id": "HET",
+        "community": "Landkreis Mansfeld-Südharz",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
     "HF": {
         "id": "HF",
         "community": "Herford",
@@ -1177,6 +2045,14 @@
         "state": {
             "shortCut": "he",
             "name": "Hessen"
+        }
+    },
+    "HGN": {
+        "id": "HGN",
+        "community": "Landkreis Ludwigslust-Parchim",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
         }
     },
     "HGW": {
@@ -1195,9 +2071,41 @@
             "name": "Hamburg"
         }
     },
+    "HHM": {
+        "id": "HHM",
+        "community": "Burgenlandkreis",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
     "HI": {
         "id": "HI",
         "community": "Hildesheim",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
+        }
+    },
+    "HIG": {
+        "id": "HIG",
+        "community": "Landkreis Eichsfeld",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "HIP": {
+        "id": "HIP",
+        "community": "Landkreis Roth",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "HK": {
+        "id": "HK",
+        "community": "Landkreis Heidekreis",
         "state": {
             "shortCut": "ni",
             "name": "Niedersachsen"
@@ -1219,6 +2127,14 @@
             "name": "Niedersachsen"
         }
     },
+    "HMÜ": {
+        "id": "HMÜ",
+        "community": "Landkreis Göttingen",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
+        }
+    },
     "HN": {
         "id": "HN",
         "community": "Heilbronn",
@@ -1230,6 +2146,22 @@
     "HO": {
         "id": "HO",
         "community": "Hof",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "HOG": {
+        "id": "HOG",
+        "community": "Landkreis Kassel",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
+    "HOH": {
+        "id": "HOH",
+        "community": "Landkreis Haßberge",
         "state": {
             "shortCut": "by",
             "name": "Bayern"
@@ -1249,6 +2181,30 @@
         "state": {
             "shortCut": "sl",
             "name": "Saarland"
+        }
+    },
+    "HOR": {
+        "id": "HOR",
+        "community": "Landkreis Freudenstadt",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
+        }
+    },
+    "HÖS": {
+        "id": "HÖS",
+        "community": "Landkreis Erlangen-Höchstadt",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "HOT": {
+        "id": "HOT",
+        "community": "Landkreis Zwickau",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
         }
     },
     "HP": {
@@ -1307,6 +2263,14 @@
             "name": "Hessen"
         }
     },
+    "HV": {
+        "id": "HV",
+        "community": "Landkreis Stendal",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
     "HVL": {
         "id": "HVL",
         "community": "Havelland",
@@ -1329,6 +2293,14 @@
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
+        }
+    },
+    "HY": {
+        "id": "HY",
+        "community": "Landkreis Bautzen",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
         }
     },
     "HZ": {
@@ -1355,6 +2327,22 @@
             "name": "Thüringen"
         }
     },
+    "IL": {
+        "id": "IL",
+        "community": "Ilm-Kreis",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
+        }
+    },
+    "ILL": {
+        "id": "ILL",
+        "community": "Landkreis Neu-Ulm",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "IN": {
         "id": "IN",
         "community": "Ingolstadt",
@@ -1377,6 +2365,14 @@
         "state": {
             "shortCut": "th",
             "name": "Thüringen"
+        }
+    },
+    "JE": {
+        "id": "JE",
+        "community": "Landkreis Wittenberg",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
         }
     },
     "JL": {
@@ -1435,6 +2431,22 @@
             "name": "Bayern"
         }
     },
+    "KEL": {
+        "id": "KEL",
+        "community": "Ortenaukreis",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
+        }
+    },
+    "KEM": {
+        "id": "KEM",
+        "community": "Landkreis Bayreuth / Landkreis Tirschenreuth",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "KF": {
         "id": "KF",
         "community": "Kaufbeuren",
@@ -1475,6 +2487,14 @@
             "name": "Rheinland-Pfalz"
         }
     },
+    "KK": {
+        "id": "KK",
+        "community": "Kreis Viersen",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
     "KL": {
         "id": "KL",
         "community": "Kaiserslautern",
@@ -1489,6 +2509,22 @@
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
+        }
+    },
+    "KLZ": {
+        "id": "KLZ",
+        "community": "Altmarkkreis Salzwedel",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "KM": {
+        "id": "KM",
+        "community": "Landkreis Bautzen",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
         }
     },
     "KN": {
@@ -1507,12 +2543,44 @@
             "name": "Rheinland-Pfalz"
         }
     },
+    "KÖN": {
+        "id": "KÖN",
+        "community": "Landkreis Rhön-Grabfeld",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "KÖT": {
+        "id": "KÖT",
+        "community": "Landkreis Anhalt-Bitterfeld",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "KÖZ": {
+        "id": "KÖZ",
+        "community": "Landkreis Cham",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "KR": {
         "id": "KR",
         "community": "Krefeld",
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
+        }
+    },
+    "KRU": {
+        "id": "KRU",
+        "community": "Landkreis Günzburg",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
         }
     },
     "KS": {
@@ -1555,6 +2623,22 @@
             "name": "Rheinland-Pfalz"
         }
     },
+    "KW": {
+        "id": "KW",
+        "community": "Landkreis Dahme-Spreewald",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
+    "KY": {
+        "id": "KY",
+        "community": "Landkreis Ostprignitz-Ruppin",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
     "KYF": {
         "id": "KYF",
         "community": "Kyffhäuserkreis",
@@ -1579,6 +2663,14 @@
             "name": "Bayern"
         }
     },
+    "LAN": {
+        "id": "LAN",
+        "community": "Landkreis Dingolfing-Landau",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "LAU": {
         "id": "LAU",
         "community": "Lauf/Nürnberger Land",
@@ -1593,6 +2685,30 @@
         "state": {
             "shortCut": "bw",
             "name": "Baden-Württemberg"
+        }
+    },
+    "LBS": {
+        "id": "LBS",
+        "community": "Saale-Orla-Kreis",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
+        }
+    },
+    "LBZ": {
+        "id": "LBZ",
+        "community": "Landkreis Ludwigslust-Parchim",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
+    "LC": {
+        "id": "LC",
+        "community": "Landkreis Dahme-Spreewald",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
         }
     },
     "LD": {
@@ -1619,6 +2735,14 @@
             "name": "Brandenburg"
         }
     },
+    "LEO": {
+        "id": "LEO",
+        "community": "Landkreis Böblingen",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
+        }
+    },
     "LER": {
         "id": "LER",
         "community": "Leer/Ostfriesland",
@@ -1635,6 +2759,14 @@
             "name": "Nordrhein-Westfalen"
         }
     },
+    "LF": {
+        "id": "LF",
+        "community": "Landkreis Altötting / Landkreis Berchtesgadener Land / Landkreis Traunstein",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "LG": {
         "id": "LG",
         "community": "Lüneburg",
@@ -1643,12 +2775,28 @@
             "name": "Niedersachsen"
         }
     },
+    "LH": {
+        "id": "LH",
+        "community": "Kreis Coesfeld / Kreis Unna",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
     "LI": {
         "id": "LI",
         "community": "Lindau",
         "state": {
             "shortCut": "by",
             "name": "Bayern"
+        }
+    },
+    "LIB": {
+        "id": "LIB",
+        "community": "Landkreis Elbe-Elster",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
         }
     },
     "LIF": {
@@ -1683,6 +2831,14 @@
             "name": "Hessen"
         }
     },
+    "LN": {
+        "id": "LN",
+        "community": "Landkreis Dahme-Spreewald",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
     "LÖ": {
         "id": "LÖ",
         "community": "Lörrach",
@@ -1691,12 +2847,36 @@
             "name": "Baden-Württemberg"
         }
     },
+    "LÖB": {
+        "id": "LÖB",
+        "community": "Landkreis Görlitz",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
     "LOS": {
         "id": "LOS",
         "community": "Oder-Spree-Kreis Beeskow",
         "state": {
             "shortCut": "bb",
             "name": "Brandenburg"
+        }
+    },
+    "LP": {
+        "id": "LP",
+        "community": "Kreis Soest",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "LR": {
+        "id": "LR",
+        "community": "Ortenaukreis",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
         }
     },
     "LRO": {
@@ -1723,12 +2903,36 @@
             "name": "Sachsen"
         }
     },
+    "LSZ": {
+        "id": "LSZ",
+        "community": "Unstrut-Hainich-Kreis",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
+        }
+    },
     "LU": {
         "id": "LU",
         "community": "Ludwigshafen",
         "state": {
             "shortCut": "rp",
             "name": "Rheinland-Pfalz"
+        }
+    },
+    "LÜN": {
+        "id": "LÜN",
+        "community": "Kreis Unna",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "LUP": {
+        "id": "LUP",
+        "community": "Landkreis Ludwigslust-Parchim",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
         }
     },
     "LWL": {
@@ -1755,12 +2959,52 @@
             "name": "Baden-Württemberg"
         }
     },
+    "MAB": {
+        "id": "MAB",
+        "community": "Erzgebirgskreis",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "MAI": {
+        "id": "MAI",
+        "community": "Landkreis Kelheim / Landkreis Landshut",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "MAK": {
+        "id": "MAK",
+        "community": "Landkreis Wunsiedel im Fichtelgebirge",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "MAL": {
+        "id": "MAL",
+        "community": "Landkreis Landshut / Landkreis Straubing-Bogen",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "MB": {
         "id": "MB",
         "community": "Miesbach",
         "state": {
             "shortCut": "by",
             "name": "Bayern"
+        }
+    },
+    "MC": {
+        "id": "MC",
+        "community": "Landkreis Mecklenburgische Seenplatte",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
         }
     },
     "MD": {
@@ -1779,6 +3023,22 @@
             "name": "Nordrhein-Westfalen"
         }
     },
+    "MED": {
+        "id": "MED",
+        "community": "Kreis Dithmarschen",
+        "state": {
+            "shortCut": "sh",
+            "name": "Schleswig-Holstein"
+        }
+    },
+    "MEG": {
+        "id": "MEG",
+        "community": "Schwalm-Eder-Kreis",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
     "MEI": {
         "id": "MEI",
         "community": "Meißen",
@@ -1787,12 +3047,76 @@
             "name": "Sachsen"
         }
     },
+    "MEK": {
+        "id": "MEK",
+        "community": "Erzgebirgskreis",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "MEL": {
+        "id": "MEL",
+        "community": "Landkreis Osnabrück",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
+        }
+    },
+    "MER": {
+        "id": "MER",
+        "community": "Saalekreis",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "MET": {
+        "id": "MET",
+        "community": "Landkreis Rhön-Grabfeld",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "MG": {
         "id": "MG",
         "community": "Mönchengladbach",
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
+        }
+    },
+    "MGH": {
+        "id": "MGH",
+        "community": "Main-Tauber-Kreis",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
+        }
+    },
+    "MGN": {
+        "id": "MGN",
+        "community": "Landkreis Schmalkalden-Meiningen",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
+        }
+    },
+    "MH": {
+        "id": "MH",
+        "community": "Mülheim an der Ruhr",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "MHL": {
+        "id": "MHL",
+        "community": "Unstrut-Hainich-Kreis",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
         }
     },
     "MI": {
@@ -1827,6 +3151,14 @@
             "name": "Hessen"
         }
     },
+    "ML": {
+        "id": "ML",
+        "community": "Landkreis Mansfeld-Südharz",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
     "MM": {
         "id": "MM",
         "community": "Memmingen",
@@ -1843,6 +3175,22 @@
             "name": "Bayern"
         }
     },
+    "MO": {
+        "id": "MO",
+        "community": "Kreis Wesel",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "MOD": {
+        "id": "MOD",
+        "community": "Landkreis Ostallgäu",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "MOL": {
         "id": "MOL",
         "community": "Märkisch-Oderland",
@@ -1851,12 +3199,28 @@
             "name": "Brandenburg"
         }
     },
+    "MON": {
+        "id": "MON",
+        "community": "Städteregion Aachen / Kreis Düren",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
     "MOS": {
         "id": "MOS",
         "community": "Mosbach",
         "state": {
             "shortCut": "bw",
             "name": "Baden-Württemberg"
+        }
+    },
+    "MQ": {
+        "id": "MQ",
+        "community": "Saalekreis",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
         }
     },
     "MR": {
@@ -1873,6 +3237,14 @@
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
+        }
+    },
+    "MSE": {
+        "id": "MSE",
+        "community": "Landkreis Mecklenburgische Seenplatte",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
         }
     },
     "MSH": {
@@ -1907,9 +3279,25 @@
             "name": "Hessen"
         }
     },
+    "MTL": {
+        "id": "MTL",
+        "community": "Landkreis Leipzig",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
     "MÜ": {
         "id": "MÜ",
         "community": "Mühldorf am Inn",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "MÜB": {
+        "id": "MÜB",
+        "community": "Landkreis Bayreuth / Landkreis Hof",
         "state": {
             "shortCut": "by",
             "name": "Bayern"
@@ -1929,6 +3317,22 @@
         "state": {
             "shortCut": "mv",
             "name": "Mecklenburg-Vorpommern"
+        }
+    },
+    "MW": {
+        "id": "MW",
+        "community": "Landkreis Mittelsachsen",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "MY": {
+        "id": "MY",
+        "community": "Landkreis Mayen-Koblenz",
+        "state": {
+            "shortCut": "rp",
+            "name": "Rheinland-Pfalz"
         }
     },
     "MYK": {
@@ -1961,6 +3365,30 @@
         "state": {
             "shortCut": "by",
             "name": "Bayern"
+        }
+    },
+    "NAB": {
+        "id": "NAB",
+        "community": "Landkreis Amberg-Sulzbach / Landkreis Schwandorf",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "NAI": {
+        "id": "NAI",
+        "community": "Landkreis Hof",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "NAU": {
+        "id": "NAU",
+        "community": "Landkreis Havelland",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
         }
     },
     "NB": {
@@ -2003,6 +3431,22 @@
             "name": "Bayern"
         }
     },
+    "NEB": {
+        "id": "NEB",
+        "community": "Burgenlandkreis",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "NEC": {
+        "id": "NEC",
+        "community": "Coburg",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "NES": {
         "id": "NES",
         "community": "Bad Neustadt/Saale",
@@ -2025,6 +3469,14 @@
         "state": {
             "shortCut": "sh",
             "name": "Schleswig-Holstein"
+        }
+    },
+    "NH": {
+        "id": "NH",
+        "community": "Landkreis Sonneberg",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
         }
     },
     "NI": {
@@ -2059,12 +3511,28 @@
             "name": "Bayern"
         }
     },
+    "NMB": {
+        "id": "NMB",
+        "community": "Burgenlandkreis",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
     "NMS": {
         "id": "NMS",
         "community": "Neumünster",
         "state": {
             "shortCut": "sh",
             "name": "Schleswig-Holstein"
+        }
+    },
+    "NÖ": {
+        "id": "NÖ",
+        "community": "Landkreis Donau-Ries",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
         }
     },
     "NOH": {
@@ -2075,12 +3543,36 @@
             "name": "Niedersachsen"
         }
     },
+    "NOL": {
+        "id": "NOL",
+        "community": "Landkreis Görlitz",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
     "NOM": {
         "id": "NOM",
         "community": "Northeim",
         "state": {
             "shortCut": "ni",
             "name": "Niedersachsen"
+        }
+    },
+    "NOR": {
+        "id": "NOR",
+        "community": "Landkreis Aurich",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
+        }
+    },
+    "NP": {
+        "id": "NP",
+        "community": "Landkreis Ostprignitz-Ruppin",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
         }
     },
     "NR": {
@@ -2091,12 +3583,20 @@
             "name": "Rheinland-Pfalz"
         }
     },
-    "Nordrhein-Westfalen": {
-        "id": "Nordrhein-Westfalen",
+    "NRW": {
+        "id": "NRW",
         "community": "Nordrhein-Westfalen Landesregierung und Landtag",
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
+        }
+    },
+    "NT": {
+        "id": "NT",
+        "community": "Landkreis Esslingen",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
         }
     },
     "NU": {
@@ -2131,6 +3631,22 @@
             "name": "Mecklenburg-Vorpommern"
         }
     },
+    "NY": {
+        "id": "NY",
+        "community": "Landkreis Görlitz",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "NZ": {
+        "id": "NZ",
+        "community": "Landkreis Mecklenburgische Seenplatte",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
     "OA": {
         "id": "OA",
         "community": "Oberallgäu / Sonthofen",
@@ -2153,6 +3669,38 @@
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
+        }
+    },
+    "OBB": {
+        "id": "OBB",
+        "community": "Landkreis Miltenberg",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "OBG": {
+        "id": "OBG",
+        "community": "Landkreis Stendal",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "OC": {
+        "id": "OC",
+        "community": "Landkreis Börde",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "OCH": {
+        "id": "OCH",
+        "community": "Landkreis Würzburg",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
         }
     },
     "OD": {
@@ -2203,6 +3751,14 @@
             "name": "Niedersachsen"
         }
     },
+    "ÖHR": {
+        "id": "ÖHR",
+        "community": "Hohenlohekreis",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
+        }
+    },
     "OHV": {
         "id": "OHV",
         "community": "Oberhavel",
@@ -2219,12 +3775,28 @@
             "name": "Niedersachsen"
         }
     },
+    "OK": {
+        "id": "OK",
+        "community": "Landkreis Börde",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
     "OL": {
         "id": "OL",
         "community": "Oldenburg",
         "state": {
             "shortCut": "ni",
             "name": "Niedersachsen"
+        }
+    },
+    "OP": {
+        "id": "OP",
+        "community": "Stadt Leverkusen",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
         }
     },
     "OPR": {
@@ -2251,12 +3823,44 @@
             "name": "Brandenburg"
         }
     },
+    "OTW": {
+        "id": "OTW",
+        "community": "Landkreis Neunkirchen",
+        "state": {
+            "shortCut": "sl",
+            "name": "Saarland"
+        }
+    },
+    "OVI": {
+        "id": "OVI",
+        "community": "Landkreis Schwandorf",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "OVL": {
+        "id": "OVL",
+        "community": "Vogtlandkreis",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
     "OVP": {
         "id": "OVP",
         "community": "Ostvorpommern",
         "state": {
             "shortCut": "mv",
             "name": "Mecklenburg-Vorpommern"
+        }
+    },
+    "OZ": {
+        "id": "OZ",
+        "community": "Landkreis Nordsachsen",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
         }
     },
     "P": {
@@ -2291,6 +3895,14 @@
             "name": "Bayern"
         }
     },
+    "PAR": {
+        "id": "PAR",
+        "community": "Landkreis Kelheim / Landkreis Neumarkt in der Oberpfalz",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "PB": {
         "id": "PB",
         "community": "Paderborn",
@@ -2313,6 +3925,14 @@
         "state": {
             "shortCut": "ni",
             "name": "Niedersachsen"
+        }
+    },
+    "PEG": {
+        "id": "PEG",
+        "community": "Landkreis Bayreuth / Landkreis Forchheim / Landkreis Nürnberger Land",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
         }
     },
     "PF": {
@@ -2339,6 +3959,14 @@
             "name": "Sachsen"
         }
     },
+    "PL": {
+        "id": "PL",
+        "community": "Vogtlandkreis",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
     "PLÖ": {
         "id": "PLÖ",
         "community": "Plön",
@@ -2355,6 +3983,14 @@
             "name": "Brandenburg"
         }
     },
+    "PN": {
+        "id": "PN",
+        "community": "Saale-Orla-Kreis",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
+        }
+    },
     "PR": {
         "id": "PR",
         "community": "Prignitz / Perleberg",
@@ -2363,12 +3999,52 @@
             "name": "Brandenburg"
         }
     },
+    "PRÜ": {
+        "id": "PRÜ",
+        "community": "Eifelkreis Bitburg-Prüm",
+        "state": {
+            "shortCut": "rp",
+            "name": "Rheinland-Pfalz"
+        }
+    },
     "PS": {
         "id": "PS",
         "community": "Pirmasens",
         "state": {
             "shortCut": "rp",
             "name": "Rheinland-Pfalz"
+        }
+    },
+    "PW": {
+        "id": "PW",
+        "community": "Landkreis Vorpommern-Greifswald",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
+    "PZ": {
+        "id": "PZ",
+        "community": "Landkreis Uckermark",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
+    "QFT": {
+        "id": "QFT",
+        "community": "Saalekreis",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "QLB": {
+        "id": "QLB",
+        "community": "Landkreis Harz",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
         }
     },
     "R": {
@@ -2387,12 +4063,28 @@
             "name": "Baden-Württemberg"
         }
     },
+    "RC": {
+        "id": "RC",
+        "community": "Vogtlandkreis",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
     "RD": {
         "id": "RD",
         "community": "Rendsburg-Eckernförde",
         "state": {
             "shortCut": "sh",
             "name": "Schleswig-Holstein"
+        }
+    },
+    "RDG": {
+        "id": "RDG",
+        "community": "Landkreis Vorpommern-Rügen",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
         }
     },
     "RE": {
@@ -2411,9 +4103,121 @@
             "name": "Bayern"
         }
     },
+    "REH": {
+        "id": "REH",
+        "community": "Landkreis Hof / Landkreis Wunsiedel im Fichtelgebirge",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "REI": {
+        "id": "REI",
+        "community": "Landkreis Berchtesgadener Land",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "RG": {
+        "id": "RG",
+        "community": "Landkreis Meißen",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "RH": {
+        "id": "RH",
+        "community": "Landkreis Roth",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "RI": {
+        "id": "RI",
+        "community": "Landkreis Schaumburg",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
+        }
+    },
+    "RID": {
+        "id": "RID",
+        "community": "Landkreis Kelheim",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "RIE": {
+        "id": "RIE",
+        "community": "Landkreis Meißen",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "RL": {
+        "id": "RL",
+        "community": "Landkreis Mittelsachsen",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "RM": {
+        "id": "RM",
+        "community": "Landkreis Mecklenburgische Seenplatte",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
+    "RN": {
+        "id": "RN",
+        "community": "Landkreis Havelland",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
     "RO": {
         "id": "RO",
         "community": "Rosenheim",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "ROD": {
+        "id": "ROD",
+        "community": "Landkreis Cham / Landkreis Schwandorf",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "ROF": {
+        "id": "ROF",
+        "community": "Landkreis Hersfeld-Rotenburg",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
+    "ROK": {
+        "id": "ROK",
+        "community": "Donnersbergkreis",
+        "state": {
+            "shortCut": "rp",
+            "name": "Rheinland-Pfalz"
+        }
+    },
+    "ROL": {
+        "id": "ROL",
+        "community": "Landkreis Kelheim / Landkreis Landshut",
         "state": {
             "shortCut": "by",
             "name": "Bayern"
@@ -2425,6 +4229,14 @@
         "state": {
             "shortCut": "mv",
             "name": "Mecklenburg-Vorpommern"
+        }
+    },
+    "ROT": {
+        "id": "ROT",
+        "community": "Landkreis Ansbach",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
         }
     },
     "ROW": {
@@ -2459,12 +4271,28 @@
             "name": "Nordrhein-Westfalen"
         }
     },
+    "RSL": {
+        "id": "RSL",
+        "community": "Dessau-Roßlau",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
     "RT": {
         "id": "RT",
         "community": "Reutlingen",
         "state": {
             "shortCut": "bw",
             "name": "Baden-Württemberg"
+        }
+    },
+    "RU": {
+        "id": "RU",
+        "community": "Landkreis Saalfeld-Rudolstadt",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
         }
     },
     "RÜD": {
@@ -2515,6 +4343,14 @@
             "name": "Baden-Württemberg"
         }
     },
+    "SAB": {
+        "id": "SAB",
+        "community": "Landkreis Trier-Saarburg",
+        "state": {
+            "shortCut": "rp",
+            "name": "Rheinland-Pfalz"
+        }
+    },
     "SAD": {
         "id": "SAD",
         "community": "Schwandorf",
@@ -2523,12 +4359,28 @@
             "name": "Bayern"
         }
     },
+    "SÄK": {
+        "id": "SÄK",
+        "community": "Landkreis Waldshut",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
+        }
+    },
     "SAL": {
         "id": "SAL",
         "community": "Saarland Landesregierung und Landtag",
         "state": {
             "shortCut": "sl",
             "name": "Saarland"
+        }
+    },
+    "SAN": {
+        "id": "SAN",
+        "community": "Landkreis Hof / Landkreis Kronach / Landkreis Kulmbach",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
         }
     },
     "SAW": {
@@ -2547,12 +4399,44 @@
             "name": "Saarland"
         }
     },
+    "SBG": {
+        "id": "SBG",
+        "community": "Landkreis Vorpommern-Greifswald",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
+    "SBK": {
+        "id": "SBK",
+        "community": "Salzlandkreis",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
     "SC": {
         "id": "SC",
         "community": "Schwabach",
         "state": {
             "shortCut": "by",
             "name": "Bayern"
+        }
+    },
+    "SCZ": {
+        "id": "SCZ",
+        "community": "Saale-Orla-Kreis",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
+        }
+    },
+    "SDH": {
+        "id": "SDH",
+        "community": "Kyffhäuserkreis",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
         }
     },
     "SDL": {
@@ -2563,6 +4447,14 @@
             "name": "Sachsen-Anhalt"
         }
     },
+    "SDT": {
+        "id": "SDT",
+        "community": "Landkreis Uckermark",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
     "SE": {
         "id": "SE",
         "community": "Bad Segeberg",
@@ -2571,12 +4463,68 @@
             "name": "Schleswig-Holstein"
         }
     },
+    "SEB": {
+        "id": "SEB",
+        "community": "Landkreis Sächsische Schweiz-Osterzgebirge",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "SEE": {
+        "id": "SEE",
+        "community": "Landkreis Märkisch-Oderland",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
+    "SEF": {
+        "id": "SEF",
+        "community": "Landkreis Neustadt an der Aisch-Bad Windsheim",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "SEL": {
+        "id": "SEL",
+        "community": "Landkreis Wunsiedel im Fichtelgebirge",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "SFB": {
+        "id": "SFB",
+        "community": "Landkreis Oberspreewald-Lausitz",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
+    "SFT": {
+        "id": "SFT",
+        "community": "Salzlandkreis",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
     "SG": {
         "id": "SG",
         "community": "Solingen",
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
+        }
+    },
+    "SGH": {
+        "id": "SGH",
+        "community": "Landkreis Mansfeld-Südharz",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
         }
     },
     "SH": {
@@ -2659,12 +4607,28 @@
             "name": "Schleswig-Holstein"
         }
     },
+    "SLE": {
+        "id": "SLE",
+        "community": "Kreis Düren / Kreis Euskirchen",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
     "SLF": {
         "id": "SLF",
         "community": "Saalfeld-Rudolstadt",
         "state": {
             "shortCut": "th",
             "name": "Thüringen"
+        }
+    },
+    "SLG": {
+        "id": "SLG",
+        "community": "Landkreis Ravensburg / Landkreis Sigmaringen",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
         }
     },
     "SLK": {
@@ -2675,6 +4639,14 @@
             "name": "Sachsen-Anhalt"
         }
     },
+    "SLN": {
+        "id": "SLN",
+        "community": "Landkreis Altenburger Land",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
+        }
+    },
     "SLS": {
         "id": "SLS",
         "community": "Saarlouis",
@@ -2683,12 +4655,36 @@
             "name": "Saarland"
         }
     },
+    "SLÜ": {
+        "id": "SLÜ",
+        "community": "Main-Kinzig-Kreis",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
+    "SLZ": {
+        "id": "SLZ",
+        "community": "Wartburgkreis",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
+        }
+    },
     "SM": {
         "id": "SM",
         "community": "Schmalkalden-Meiningen",
         "state": {
             "shortCut": "th",
             "name": "Thüringen"
+        }
+    },
+    "SMÜ": {
+        "id": "SMÜ",
+        "community": "Landkreis Augsburg",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
         }
     },
     "SN": {
@@ -2705,6 +4701,22 @@
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
+        }
+    },
+    "SOB": {
+        "id": "SOB",
+        "community": "Landkreis Neuburg-Schrobenhausen",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "SOG": {
+        "id": "SOG",
+        "community": "Landkreis Weilheim-Schongau",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
         }
     },
     "SOK": {
@@ -2739,6 +4751,14 @@
             "name": "Rheinland-Pfalz"
         }
     },
+    "SPB": {
+        "id": "SPB",
+        "community": "Landkreis Spree-Neiße",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
     "SPN": {
         "id": "SPN",
         "community": "Spree-Neiße",
@@ -2753,6 +4773,22 @@
         "state": {
             "shortCut": "by",
             "name": "Bayern"
+        }
+    },
+    "SRB": {
+        "id": "SRB",
+        "community": "Landkreis Märkisch-Oderland",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
+    "SRO": {
+        "id": "SRO",
+        "community": "Saale-Holzland-Kreis",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
         }
     },
     "ST": {
@@ -2771,6 +4807,22 @@
             "name": "Bayern"
         }
     },
+    "STB": {
+        "id": "STB",
+        "community": "Landkreis Ludwigslust-Parchim",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
+    "STC": {
+        "id": "STC",
+        "community": "Landkreis Konstanz / Landkreis Sigmaringen",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
+        }
+    },
     "STD": {
         "id": "STD",
         "community": "Stade",
@@ -2779,9 +4831,41 @@
             "name": "Niedersachsen"
         }
     },
+    "STE": {
+        "id": "STE",
+        "community": "Landkreis Lichtenfels",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "STL": {
+        "id": "STL",
+        "community": "Erzgebirgskreis",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
     "SU": {
         "id": "SU",
         "community": "Siegburg",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "SUL": {
+        "id": "SUL",
+        "community": "Landkreis Amberg-Sulzbach",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "SÜL": {
+        "id": "SÜL",
+        "community": "Kreis Düren",
         "state": {
             "shortCut": "nw",
             "name": "Nordrhein-Westfalen"
@@ -2803,12 +4887,44 @@
             "name": "Bayern"
         }
     },
+    "SWA": {
+        "id": "SWA",
+        "community": "Rheingau-Taunus-Kreis",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
+    "SY": {
+        "id": "SY",
+        "community": "Landkreis Diepholz",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
+        }
+    },
     "SZ": {
         "id": "SZ",
         "community": "Salzgitter",
         "state": {
             "shortCut": "ni",
             "name": "Niedersachsen"
+        }
+    },
+    "SZB": {
+        "id": "SZB",
+        "community": "Erzgebirgskreis",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "TBB": {
+        "id": "TBB",
+        "community": "Tauberbischofsheim",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
         }
     },
     "TDO": {
@@ -2819,12 +4935,20 @@
             "name": "Sachsen-Anhalt"
         }
     },
-    "TBB": {
-        "id": "TBB",
-        "community": "Tauberbischofsheim",
+    "TE": {
+        "id": "TE",
+        "community": "Kreis Steinfurt",
         "state": {
-            "shortCut": "bw",
-            "name": "Baden-Württemberg"
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "TET": {
+        "id": "TET",
+        "community": "Landkreis Rostock",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
         }
     },
     "TF": {
@@ -2855,6 +4979,7 @@
         "id": "THW",
         "community": "Technisches Hilfswerk",
         "state": {
+            "shortCut": null,
             "name": ""
         }
     },
@@ -2866,12 +4991,28 @@
             "name": "Bayern"
         }
     },
+    "TO": {
+        "id": "TO",
+        "community": "Landkreis Nordsachsen",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
     "TÖL": {
         "id": "TÖL",
         "community": "Bad Tölz",
         "state": {
             "shortCut": "by",
             "name": "Bayern"
+        }
+    },
+    "TP": {
+        "id": "TP",
+        "community": "Landkreis Uckermark",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
         }
     },
     "TR": {
@@ -2890,6 +5031,14 @@
             "name": "Bayern"
         }
     },
+    "TT": {
+        "id": "TT",
+        "community": "Bodenseekreis",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
+        }
+    },
     "TÜ": {
         "id": "TÜ",
         "community": "Tübingen",
@@ -2906,12 +5055,44 @@
             "name": "Baden-Württemberg"
         }
     },
+    "ÜB": {
+        "id": "ÜB",
+        "community": "Bodenseekreis / Landkreis Ravensburg / Landkreis Sigmaringen",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
+        }
+    },
     "UE": {
         "id": "UE",
         "community": "Uelzen",
         "state": {
             "shortCut": "ni",
             "name": "Niedersachsen"
+        }
+    },
+    "UEM": {
+        "id": "UEM",
+        "community": "Landkreis Vorpommern-Greifswald",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
+    "UFF": {
+        "id": "UFF",
+        "community": "Landkreis Neustadt an der Aisch-Bad Windsheim",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "UH": {
+        "id": "UH",
+        "community": "Unstrut-Hainich-Kreis",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
         }
     },
     "UL": {
@@ -2938,12 +5119,28 @@
             "name": "Nordrhein-Westfalen"
         }
     },
+    "USI": {
+        "id": "USI",
+        "community": "Hochtaunuskreis",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
     "V": {
         "id": "V",
         "community": "Vogtlandkreis",
         "state": {
             "shortCut": "sn",
             "name": "Sachsen"
+        }
+    },
+    "VAI": {
+        "id": "VAI",
+        "community": "Landkreis Ludwigsburg",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
         }
     },
     "VB": {
@@ -2970,6 +5167,22 @@
             "name": "Niedersachsen"
         }
     },
+    "VG": {
+        "id": "VG",
+        "community": "Landkreis Vorpommern-Greifswald",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
+    "VIB": {
+        "id": "VIB",
+        "community": "Landkreis Landshut / Landkreis Mühldorf a.Inn / Landkreis Rottal-Inn",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "VIE": {
         "id": "VIE",
         "community": "Viersen",
@@ -2978,12 +5191,28 @@
             "name": "Nordrhein-Westfalen"
         }
     },
+    "VIT": {
+        "id": "VIT",
+        "community": "Landkreis Regen",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "VK": {
         "id": "VK",
         "community": "Völklingen",
         "state": {
             "shortCut": "sl",
             "name": "Saarland"
+        }
+    },
+    "VOH": {
+        "id": "VOH",
+        "community": "Landkreis Neustadt an der Waldnaab",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
         }
     },
     "VR": {
@@ -3010,6 +5239,14 @@
             "name": "Nordrhein-Westfalen"
         }
     },
+    "WA": {
+        "id": "WA",
+        "community": "Landkreis Waldeck-Frankenberg",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
     "WAF": {
         "id": "WAF",
         "community": "Warendorf",
@@ -3026,12 +5263,52 @@
             "name": "Thüringen"
         }
     },
+    "WAN": {
+        "id": "WAN",
+        "community": "Stadt Herne",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "WAR": {
+        "id": "WAR",
+        "community": "Kreis Höxter",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "WAT": {
+        "id": "WAT",
+        "community": "Stadt Bochum",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
     "WB": {
         "id": "WB",
         "community": "Wittenberg",
         "state": {
             "shortCut": "st",
             "name": "Sachsen-Anhalt"
+        }
+    },
+    "WBS": {
+        "id": "WBS",
+        "community": "Landkreis Eichsfeld",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
+        }
+    },
+    "WDA": {
+        "id": "WDA",
+        "community": "Landkreis Zwickau",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
         }
     },
     "WE": {
@@ -3042,9 +5319,25 @@
             "name": "Thüringen"
         }
     },
+    "WEL": {
+        "id": "WEL",
+        "community": "Landkreis Limburg-Weilburg",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
     "WEN": {
         "id": "WEN",
         "community": "Weiden",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "WER": {
+        "id": "WER",
+        "community": "Landkreis Augsburg / Landkreis Dillingen an der Donau",
         "state": {
             "shortCut": "by",
             "name": "Bayern"
@@ -3064,6 +5357,14 @@
         "state": {
             "shortCut": "ni",
             "name": "Niedersachsen"
+        }
+    },
+    "WG": {
+        "id": "WG",
+        "community": "Landkreis Ravensburg",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
         }
     },
     "WHV": {
@@ -3090,6 +5391,38 @@
             "name": "Rheinland-Pfalz"
         }
     },
+    "WIS": {
+        "id": "WIS",
+        "community": "Landkreis Nordwestmecklenburg",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
+    "WIT": {
+        "id": "WIT",
+        "community": "Ennepe-Ruhr-Kreis",
+        "state": {
+            "shortCut": "nw",
+            "name": "Nordrhein-Westfalen"
+        }
+    },
+    "WIZ": {
+        "id": "WIZ",
+        "community": "Werra-Meißner-Kreis",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
+    "WK": {
+        "id": "WK",
+        "community": "Landkreis Ostprignitz-Ruppin",
+        "state": {
+            "shortCut": "bb",
+            "name": "Brandenburg"
+        }
+    },
     "WL": {
         "id": "WL",
         "community": "Winsen/Luhe",
@@ -3098,12 +5431,28 @@
             "name": "Niedersachsen"
         }
     },
+    "WLG": {
+        "id": "WLG",
+        "community": "Landkreis Vorpommern-Greifswald",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
     "WM": {
         "id": "WM",
         "community": "Weilheim-Schongau",
         "state": {
             "shortCut": "by",
             "name": "Bayern"
+        }
+    },
+    "WMS": {
+        "id": "WMS",
+        "community": "Landkreis Börde",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
         }
     },
     "WN": {
@@ -3138,6 +5487,70 @@
             "name": "Niedersachsen"
         }
     },
+    "WOH": {
+        "id": "WOH",
+        "community": "Landkreis Kassel",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
+    "WOL": {
+        "id": "WOL",
+        "community": "Landkreis Freudenstadt / Ortenaukreis",
+        "state": {
+            "shortCut": "bw",
+            "name": "Baden-Württemberg"
+        }
+    },
+    "WOR": {
+        "id": "WOR",
+        "community": "Landkreis Bad Tölz-Wolfratshausen / Landkreis München / Landkreis Starnberg",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "WOS": {
+        "id": "WOS",
+        "community": "Landkreis Freyung-Grafenau",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "WR": {
+        "id": "WR",
+        "community": "Landkreis Harz",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "WRN": {
+        "id": "WRN",
+        "community": "Landkreis Mecklenburgische Seenplatte",
+        "state": {
+            "shortCut": "mv",
+            "name": "Mecklenburg-Vorpommern"
+        }
+    },
+    "WS": {
+        "id": "WS",
+        "community": "Landkreis Mühldorf a.Inn / Landkreis Rosenheim",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
+    "WSF": {
+        "id": "WSF",
+        "community": "Burgenlandkreis",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
     "WST": {
         "id": "WST",
         "community": "Westerstede",
@@ -3146,12 +5559,28 @@
             "name": "Niedersachsen"
         }
     },
+    "WSW": {
+        "id": "WSW",
+        "community": "Landkreis Görlitz",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
     "WT": {
         "id": "WT",
         "community": "Waldshut-Tiengen",
         "state": {
             "shortCut": "bw",
             "name": "Baden-Württemberg"
+        }
+    },
+    "WTL": {
+        "id": "WTL",
+        "community": "Landkreis Osnabrück",
+        "state": {
+            "shortCut": "ni",
+            "name": "Niedersachsen"
         }
     },
     "WTM": {
@@ -3178,12 +5607,28 @@
             "name": "Bayern"
         }
     },
+    "WÜM": {
+        "id": "WÜM",
+        "community": "Landkreis Cham",
+        "state": {
+            "shortCut": "by",
+            "name": "Bayern"
+        }
+    },
     "WUN": {
         "id": "WUN",
         "community": "Wunsiedel",
         "state": {
             "shortCut": "by",
             "name": "Bayern"
+        }
+    },
+    "WUR": {
+        "id": "WUR",
+        "community": "Landkreis Leipzig",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
         }
     },
     "WW": {
@@ -3202,10 +5647,27 @@
             "name": "Hessen"
         }
     },
+    "WZL": {
+        "id": "WZL",
+        "community": "Landkreis Börde",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "X": {
+        "id": "X",
+        "community": "Internationale Hauptquartiere (NATO)",
+        "state": {
+            "shortCut": null,
+            "name": ""
+        }
+    },
     "Y": {
         "id": "Y",
         "community": "Bundeswehr",
         "state": {
+            "shortCut": null,
             "name": ""
         }
     },
@@ -3217,12 +5679,60 @@
             "name": "Sachsen"
         }
     },
+    "ZE": {
+        "id": "ZE",
+        "community": "Landkreis Anhalt-Bitterfeld",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
+        }
+    },
+    "ZEL": {
+        "id": "ZEL",
+        "community": "Landkreis Cochem-Zell",
+        "state": {
+            "shortCut": "rp",
+            "name": "Rheinland-Pfalz"
+        }
+    },
+    "ZIG": {
+        "id": "ZIG",
+        "community": "Schwalm-Eder-Kreis",
+        "state": {
+            "shortCut": "he",
+            "name": "Hessen"
+        }
+    },
+    "ZP": {
+        "id": "ZP",
+        "community": "Erzgebirgskreis",
+        "state": {
+            "shortCut": "sn",
+            "name": "Sachsen"
+        }
+    },
+    "ZR": {
+        "id": "ZR",
+        "community": "Landkreis Greiz",
+        "state": {
+            "shortCut": "th",
+            "name": "Thüringen"
+        }
+    },
     "ZW": {
         "id": "ZW",
         "community": "Zweibrücken",
         "state": {
             "shortCut": "rp",
             "name": "Rheinland-Pfalz"
+        }
+    },
+    "ZZ": {
+        "id": "ZZ",
+        "community": "Burgenlandkreis",
+        "state": {
+            "shortCut": "st",
+            "name": "Sachsen-Anhalt"
         }
     }
 }
